@@ -1,0 +1,550 @@
+History Log
+
+Talk Group, Frequency, Tone, RSSI, UID, Mod, Hits, Duration, Start Date / Time, System / Site, Department, Channel, System Type, Digital Status, Service Type, Number Tune
+, 859.762500, , -103, , FM, 18, 00:00:50, 05/31/23 05:46:35, Department of Transportation (Caltrans), Operations - Statewide, North, Conventional, , Public Works, -  -
+, 162.425000, , -98, , FM, 4, 00:04:21, 05/31/23 05:48:51, National Weather Service - USA, Weather Radio, Weather Radio 162.425, Conventional, , Other, -  -
+, 162.475000, , -96, , FM, 3, 00:01:41, 05/31/23 05:53:12, National Weather Service - USA, Weather Radio, Weather Radio 162.475, Conventional, , Other, -  -
+, 859.762500, , -109, , FM, 20, 00:02:50, 05/31/23 05:55:48, Department of Transportation (Caltrans), Operations - Statewide, North, Conventional, , Public Works, -  -
+624, 856.762500, , -99, 49383, NFM, 9, 00:00:07, 05/31/23 05:59:06, Caltrans (District 4 - North) / Big Rock Ridge (Rcvr Voting), Operations, Bay Bridge Tow, Motorola, , Public Works, -  -
+, 52.525000, , -80, , FM, 316, 00:00:06, 05/31/23 05:59:43, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 6m FM Primary Calling, Conventional, , Ham, -  -
+, 52.525000, , -82, , FM, 329, 00:00:03, 05/31/23 06:00:01, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 6m FM Primary Calling, Conventional, , Ham, -  -
+, 52.525000, , -80, , FM, 331, 00:00:03, 05/31/23 06:00:05, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 6m FM Primary Calling, Conventional, , Ham, -  -
+, 52.525000, , -80, , FM, 339, 00:00:03, 05/31/23 06:00:15, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 6m FM Primary Calling, Conventional, , Ham, -  -
+, 52.525000, , -81, , FM, 340, 00:00:04, 05/31/23 06:00:18, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 6m FM Primary Calling, Conventional, , Ham, -  -
+, 52.525000, , -81, , FM, 341, 00:00:41, 05/31/23 06:00:23, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 6m FM Primary Calling, Conventional, , Ham, -  -
+, 52.525000, , -83, , FM, 344, 00:00:02, 05/31/23 06:01:07, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 6m FM Primary Calling, Conventional, , Ham, -  -
+, 52.525000, , -81, , FM, 346, 00:00:18, 05/31/23 06:01:11, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 6m FM Primary Calling, Conventional, , Ham, -  -
+, 52.525000, , -82, , FM, 347, 00:00:05, 05/31/23 06:01:29, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 6m FM Primary Calling, Conventional, , Ham, -  -
+, 52.525000, , -80, , FM, 350, 00:00:07, 05/31/23 06:01:35, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 6m FM Primary Calling, Conventional, , Ham, -  -
+, 52.525000, , -82, , FM, 355, 00:00:02, 05/31/23 06:01:46, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 6m FM Primary Calling, Conventional, , Ham, -  -
+, 52.525000, , -80, , FM, 361, 00:00:04, 05/31/23 06:01:53, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 6m FM Primary Calling, Conventional, , Ham, -  -
+, 52.525000, , -81, , FM, 362, 00:00:02, 05/31/23 06:01:57, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 6m FM Primary Calling, Conventional, , Ham, -  -
+, 52.525000, , -82, , FM, 365, 00:00:02, 05/31/23 06:02:01, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 6m FM Primary Calling, Conventional, , Ham, -  -
+, 52.525000, , -80, , FM, 366, 00:00:03, 05/31/23 06:02:03, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 6m FM Primary Calling, Conventional, , Ham, -  -
+, 52.525000, , -80, , FM, 373, 00:00:08, 05/31/23 06:02:13, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 6m FM Primary Calling, Conventional, , Ham, -  -
+, 52.525000, , -81, , FM, 376, 00:00:02, 05/31/23 06:02:24, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 6m FM Primary Calling, Conventional, , Ham, -  -
+, 52.525000, , -80, , FM, 377, 00:00:27, 05/31/23 06:02:27, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 6m FM Primary Calling, Conventional, , Ham, -  -
+, 52.525000, , -80, , FM, 378, 00:00:10, 05/31/23 06:02:55, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 6m FM Primary Calling, Conventional, , Ham, -  -
+, 52.525000, , -80, , FM, 379, 00:00:04, 05/31/23 06:03:05, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 6m FM Primary Calling, Conventional, , Ham, -  -
+, 162.425000, , -99, , FM, 5, 00:00:05, 05/31/23 06:13:31, National Weather Service - USA, Weather Radio, Weather Radio 162.425, Conventional, , Other, -  -
+, 162.475000, , -96, , FM, 4, 00:05:59, 05/31/23 06:13:38, National Weather Service - USA, Weather Radio, Weather Radio 162.475, Conventional, , Other, -  -
+, 859.762500, , -112, , FM, 21, 00:02:13, 05/31/23 06:20:36, Department of Transportation (Caltrans), Operations - Statewide, North, Conventional, , Public Works, -  -
+, 859.762500, , -113, , FM, 22, 00:00:03, 05/31/23 06:22:50, Department of Transportation (Caltrans), Operations - Statewide, North, Conventional, , Public Works, -  -
+, 859.762500, , -115, , FM, 23, 00:15:34, 05/31/23 06:22:54, Department of Transportation (Caltrans), Operations - Statewide, North, Conventional, , Public Works, -  -
+, 859.762500, , -113, , FM, 24, 00:00:03, 05/31/23 06:38:31, Department of Transportation (Caltrans), Operations - Statewide, North, Conventional, , Public Works, -  -
+, 859.762500, , -110, , FM, 25, 00:01:29, 05/31/23 06:38:35, Department of Transportation (Caltrans), Operations - Statewide, North, Conventional, , Public Works, -  -
+, 859.762500, , -113, , FM, 26, 00:08:25, 05/31/23 06:40:07, Department of Transportation (Caltrans), Operations - Statewide, North, Conventional, , Public Works, -  -
+, 859.762500, , -110, , FM, 27, 00:00:03, 05/31/23 06:48:34, Department of Transportation (Caltrans), Operations - Statewide, North, Conventional, , Public Works, -  -
+, 146.700000, , -103, , FM, 185, 00:00:04, 05/31/23 06:50:16, Marin, Amateur Radio - Marin Amateur Radio Society (MARS), Bahia Ridge (Linked - Simulcast System), Conventional, , Ham, -  -
+, 120.900000, , -106, , AM, 15, 00:00:02, 05/31/23 06:53:23, TRACONs, NORCAL Approach TRACON - Area D - North Bay, SFO/OAK East Departures, Conventional, , Aircraft, -  -
+, 125.850000, , -80, , AM, 29, 00:00:03, 05/31/23 06:54:21, Oakland (ZOA) Air Route Traffic Control Center, California RCAG Sites - Mt Tamalpais - RCAG, Sector 41 - Between 9000' - FL230, Conventional, , Aircraft, -  -
+, 463.900000, , -104, , FM, 126, 00:00:04, 05/31/23 07:01:07, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+, 463.900000, , -105, , FM, 128, 00:00:04, 05/31/23 07:01:14, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+101, 463.787500/2, CC5, -109, 1, NFM, 17, 00:00:04, 05/31/23 07:08:28, Attractions, San Pablo Lytton Casino, Channel 1, Conventional, DMR, Business, -  -
+, 29.600000, , -104, , FM, 115, 00:00:07, 05/31/23 07:09:40, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -104, , FM, 116, 00:00:07, 05/31/23 07:09:48, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -104, , FM, 118, 00:00:08, 05/31/23 07:09:59, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -103, , FM, 122, 00:00:04, 05/31/23 07:10:12, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -103, , FM, 124, 00:00:02, 05/31/23 07:10:19, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -103, , FM, 126, 00:00:05, 05/31/23 07:10:24, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -104, , FM, 130, 00:00:11, 05/31/23 07:10:35, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -103, , FM, 131, 00:00:02, 05/31/23 07:10:48, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -103, , FM, 132, 00:00:14, 05/31/23 07:10:50, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -103, , FM, 136, 00:00:02, 05/31/23 07:11:09, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 463.900000, , -105, , FM, 148, 00:00:16, 05/31/23 07:12:38, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+, 160.965000, , -103, , NFM, 27, 00:00:02, 05/31/23 07:21:26, California Railroads, Alameda Corridor Transportation Authority (ACTA) - Operations, Road, Conventional, , Railroad, -  -
+, 29.600000, , -104, , FM, 142, 00:00:12, 05/31/23 07:22:26, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -104, , FM, 152, 00:00:04, 05/31/23 07:22:49, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -104, , FM, 157, 00:00:04, 05/31/23 07:22:59, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -104, , FM, 158, 00:00:02, 05/31/23 07:23:04, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -105, , FM, 159, 00:00:02, 05/31/23 07:23:07, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+101, 463.787500/1, CC5, -106, 1, NFM, 18, 00:00:20, 05/31/23 07:28:40, Attractions, San Pablo Lytton Casino, Channel 1, Conventional, DMR, Business, -  -
+, 463.900000, , -106, , FM, 164, 00:00:04, 05/31/23 07:31:49, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+101, 463.787500/1, CC5, -107, 1, NFM, 19, 00:00:06, 05/31/23 07:38:20, Attractions, San Pablo Lytton Casino, Channel 1, Conventional, DMR, Business, -  -
+11909804, 463.887500/2, CC3, -110, 11909489, NFM, 27, 00:00:03, 05/31/23 07:42:28, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+, 855.587500, D116, -99, , FM, 2, 00:00:02, 05/31/23 07:54:06, Businesses, Miscellaneous, Mill Valley Refuse, Conventional, , Business, -  -
+18128, 482.787500, , -99, 60208, NFM, 40, 00:00:06, 05/31/23 07:55:12, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 482.787500, , -98, 60208, NFM, 41, 00:00:03, 05/31/23 07:55:22, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 482.787500, , -101, 60208, NFM, 42, 00:00:04, 05/31/23 07:55:27, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+, 119.750000, , -85, , AM, 21, 00:00:02, 05/31/23 07:56:15, Oakland (ZOA) Air Route Traffic Control Center, California RCAG Sites - Angels Camp - RCAG, Sector 29 Int - Between FL240 - FL290, Conventional, , Aircraft, -  -
+18128, 490.937500, , -101, 60208, NFM, 44, 00:00:09, 05/31/23 07:57:54, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 482.625000, , -101, 60208, NFM, 46, 00:00:03, 05/31/23 08:05:11, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+, 463.900000, , -103, , FM, 174, 00:00:06, 05/31/23 08:06:41, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+18128, 490.937500, , -99, 60208, NFM, 48, 00:00:08, 05/31/23 08:07:45, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 490.937500, , -103, 60208, NFM, 49, 00:00:05, 05/31/23 08:07:54, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+11909804, 461.412500/2, CC3, -110, 11909489, NFM, 30, 00:00:11, 05/31/23 08:09:08, Fisher Wireless TeamTalk / Grizzly Peak, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+101, 463.787500, CC5, -107, 1, NFM, 20, 00:00:11, 05/31/23 08:12:01, Attractions, San Pablo Lytton Casino, Channel 1, Conventional, DMR, Business, -  -
+45040, 490.937500, , -105, , NFM, 1, 00:00:09, 05/31/23 08:13:08, Marin Emergency Radio Authority (MERA) / East Zone, Countywide EMS, Marin General Hospital 2 (BLS Report), Motorola, P25, Hospital, -  -
+45040, 490.937500, , -103, , NFM, 2, 00:00:12, 05/31/23 08:13:18, Marin Emergency Radio Authority (MERA) / East Zone, Countywide EMS, Marin General Hospital 2 (BLS Report), Motorola, P25, Hospital, -  -
+45040, 482.787500, , -99, , NFM, 3, 00:00:03, 05/31/23 08:13:34, Marin Emergency Radio Authority (MERA) / East Zone, Countywide EMS, Marin General Hospital 2 (BLS Report), Motorola, P25, Hospital, -  -
+45040, 482.787500, , -98, , NFM, 4, 00:00:02, 05/31/23 08:13:39, Marin Emergency Radio Authority (MERA) / East Zone, Countywide EMS, Marin General Hospital 2 (BLS Report), Motorola, P25, Hospital, -  -
+45040, 482.625000, , -100, , NFM, 5, 00:00:02, 05/31/23 08:13:46, Marin Emergency Radio Authority (MERA) / East Zone, Countywide EMS, Marin General Hospital 2 (BLS Report), Motorola, P25, Hospital, -  -
+45040, 482.625000, , -98, , NFM, 6, 00:00:14, 05/31/23 08:13:49, Marin Emergency Radio Authority (MERA) / East Zone, Countywide EMS, Marin General Hospital 2 (BLS Report), Motorola, P25, Hospital, -  -
+, 856.762500, , -97, , FM, 8, 00:00:04, 05/31/23 08:17:39, Department of Transportation (Caltrans), Operations - Statewide, North, Conventional, , Public Works, -  -
+45840, 489.912500, , -103, 21012, NFM, 11, 00:00:02, 05/31/23 08:18:23, Marin Emergency Radio Authority (MERA) / East Zone, County Sheriff, Jail 1, Motorola, P25, Corrections, -  -
+, 29.600000, , -103, , FM, 166, 00:00:05, 05/31/23 08:18:41, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 463.900000, , -103, , FM, 176, 00:00:06, 05/31/23 08:19:56, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+, 463.900000, , -102, , FM, 183, 00:00:02, 05/31/23 08:22:32, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+, 463.900000, , -103, , FM, 184, 00:00:20, 05/31/23 08:22:36, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+, 125.850000, , -79, , AM, 31, 00:00:08, 05/31/23 08:24:49, Oakland (ZOA) Air Route Traffic Control Center, California RCAG Sites - Mt Tamalpais - RCAG, Sector 41 - Between 9000' - FL230, Conventional, , Aircraft, -  -
+, 127.675000, , -83, , AM, 4, 00:00:03, 05/31/23 08:26:26, TRACONs, NORCAL Approach TRACON - Area B - SFO Arrivals, Runway 28R Precision Runway Monitor (PRM) Approach, Conventional, , Aircraft, -  -
+11909804, 463.887500/2, CC3, -109, 11909489, NFM, 33, 00:00:04, 05/31/23 08:29:52, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+11909804, 483.837500/2, CC3, -108, 11909489, NFM, 34, 00:00:02, 05/31/23 08:30:02, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+11909804, 463.887500/2, CC3, -109, 11909489, NFM, 37, 00:00:22, 05/31/23 08:30:17, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+44944, 482.650000, , -101, , NFM, 1, 00:00:06, 05/31/23 08:34:29, Marin Emergency Radio Authority (MERA) / East Zone, Countywide EMS, Novato Community Hospital 1 (Consult), Motorola, P25, Hospital, -  -
+11909804, 463.887500/2, CC3, -109, 11909489, NFM, 38, 00:00:16, 05/31/23 08:35:38, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+11909804, 463.887500/1, CC3, -109, 11909489, NFM, 40, 00:00:02, 05/31/23 08:36:06, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+31666, 144.975000/2, CC1, -98, 3187670, NFM, 18, 00:00:24, 05/31/23 08:36:25, Contra Costa, Amateur Radio - DMR-MARC (Motorola Amateur Radio Club Worldwide, DMR-MARC - NorCal Bay Area (Mt Diablo"," North Peak), Conventional, DMR, Ham, -  -
+1000, 774.243750, , -106, 823, NFM, 12, 00:00:03, 05/31/23 08:47:16, Golden Gate Bridge Highway and Transportation District / Simulcast, Bridge Operations, Bridge Patrol, P25 Trunk, Link, Security, -  -
+, 156.700000, , -101, , FM, 6, 00:00:18, 05/31/23 08:52:26, Maritime - USA, Maritime Operations - Marine VHF 1A-88A, 14 - Port Operations, Conventional, , Transportation, -  -
+, 125.850000, , -81, , AM, 32, 00:00:04, 05/31/23 08:57:06, Oakland (ZOA) Air Route Traffic Control Center, California RCAG Sites - Mt Tamalpais - RCAG, Sector 41 - Between 9000' - FL230, Conventional, , Aircraft, -  -
+105, 461.462500, CC8, -108, 1, NFM, 3, 00:00:10, 05/31/23 08:57:47, Attractions, San Pablo Lytton Casino, Channel 2, Conventional, DMR, Business, -  -
+, 160.365000, , -108, , NFM, 28, 00:00:06, 05/31/23 09:00:13, California Railroads, BNSF Railway - Alameda Corridor Subdivision, Road - E Redondo to W Thenard, Conventional, , Railroad, -  -
+, 160.800000, , -113, , NFM, 10, 00:00:06, 05/31/23 09:04:42, California Railroads, Union Pacific (UP) - Martinez Subdivsion, Road - 10th Street to W Haggin, Conventional, , Railroad, -  -
+, 160.800000, , -107, , NFM, 14, 00:00:02, 05/31/23 09:04:54, California Railroads, Union Pacific (UP) - Martinez Subdivsion, Road - 10th Street to W Haggin, Conventional, , Railroad, -  -
+45840, 489.912500, , -102, 21012, NFM, 12, 00:00:03, 05/31/23 09:05:40, Marin Emergency Radio Authority (MERA) / East Zone, County Sheriff, Jail 1, Motorola, P25, Corrections, -  -
+, 156.700000, , -101, , FM, 7, 00:00:14, 05/31/23 09:06:17, Maritime - USA, Maritime Operations - Marine VHF 1A-88A, 14 - Port Operations, Conventional, , Transportation, -  -
+, 858.762500, , -105, , FM, 7, 00:00:05, 05/31/23 09:07:46, Department of Transportation (Caltrans), Operations - Statewide, North, Conventional, , Public Works, -  -
+, 133.950000, , -85, , AM, 25, 00:00:02, 05/31/23 09:08:12, TRACONs, NORCAL Approach TRACON - Area B - SFO Arrivals, SFO North and West Arrivals Feeder, Conventional, , Aircraft, -  -
+, 853.037500, , -1004, , FM, 4, 00:00:02, 05/31/23 09:14:24, Department of Transportation (Caltrans), Operations - Statewide, South, Conventional, , Public Works, -  -
+, 133.950000, , -89, , AM, 27, 00:00:02, 05/31/23 09:14:49, TRACONs, NORCAL Approach TRACON - Area B - SFO Arrivals, SFO North and West Arrivals Feeder, Conventional, , Aircraft, -  -
+18128, 482.650000, , -102, 60208, NFM, 50, 00:00:02, 05/31/23 09:15:16, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 489.912500, , -102, 60208, NFM, 51, 00:00:05, 05/31/23 09:15:22, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+, 125.850000, , -81, , AM, 35, 00:00:02, 05/31/23 09:18:26, Oakland (ZOA) Air Route Traffic Control Center, California RCAG Sites - Mt Tamalpais - RCAG, Sector 41 - Between 9000' - FL230, Conventional, , Aircraft, -  -
+11908834, 462.375000/1, , -114, , NFM, 1, 00:00:06, 05/31/23 09:21:07, Fisher Wireless TeamTalk / Mt Tamalpais, Northern California, School Buses, MotoTRBO Trunk, CON, Schools, -  -
+11908834, 462.375000/1, , -113, , NFM, 2, 00:00:06, 05/31/23 09:21:15, Fisher Wireless TeamTalk / Mt Tamalpais, Northern California, School Buses, MotoTRBO Trunk, CON, Schools, -  -
+91, 144.975000/2, CC1, -98, , NFM, 1, 00:00:06, 05/31/23 09:23:31, Contra Costa, Amateur Radio - DMR-MARC (Motorola Amateur Radio Club Worldwide, DMR-MARC - NorCal Bay Area (Mt Diablo"," North Peak), Conventional, DMR, Ham, -  -
+91, 144.975000/1, CC1, -98, , NFM, 2, 00:00:57, 05/31/23 09:25:51, Contra Costa, Amateur Radio - DMR-MARC (Motorola Amateur Radio Club Worldwide, DMR-MARC - NorCal Bay Area (Mt Diablo"," North Peak), Conventional, DMR, Ham, -  -
+91, 144.975000/1, CC1, -97, , NFM, 3, 00:02:36, 05/31/23 09:29:16, Contra Costa, Amateur Radio - DMR-MARC (Motorola Amateur Radio Club Worldwide, DMR-MARC - NorCal Bay Area (Mt Diablo"," North Peak), Conventional, DMR, Ham, -  -
+19616, 482.625000, , -100, , NFM, 1, 00:00:03, 05/31/23 09:33:01, Marin Emergency Radio Authority (MERA) / East Zone, County Office of Education, Ch. 1 All Schools, Motorola, P25, Schools, -  -
+, 157.100000, , -91, , FM, 3, 00:04:38, 05/31/23 09:33:36, Maritime - USA, Maritime Operations - Marine VHF 1A-88A, 22A - Coast Guard Liaison/Maritime Safety Information Broadcasts, Conventional, , Federal, -  -
+, 856.762500, , -96, , FM, 9, 00:00:13, 05/31/23 09:39:25, Department of Transportation (Caltrans), Operations - Statewide, North, Conventional, , Public Works, -  -
+, 858.762500, , -109, , FM, 8, 00:00:13, 05/31/23 09:39:41, Department of Transportation (Caltrans), Operations - Statewide, North, Conventional, , Public Works, -  -
+31666, 144.975000/2, CC1, -98, 3187670, NFM, 19, 00:01:47, 05/31/23 09:41:30, Contra Costa, Amateur Radio - DMR-MARC (Motorola Amateur Radio Club Worldwide, DMR-MARC - NorCal Bay Area (Mt Diablo"," North Peak), Conventional, DMR, Ham, -  -
+31666, 144.975000/2, CC1, -99, 3187670, NFM, 20, 00:00:44, 05/31/23 09:45:17, Contra Costa, Amateur Radio - DMR-MARC (Motorola Amateur Radio Club Worldwide, DMR-MARC - NorCal Bay Area (Mt Diablo"," North Peak), Conventional, DMR, Ham, -  -
+31666, 144.975000/2, CC1, -98, 3187670, NFM, 21, 00:02:22, 05/31/23 09:48:10, Contra Costa, Amateur Radio - DMR-MARC (Motorola Amateur Radio Club Worldwide, DMR-MARC - NorCal Bay Area (Mt Diablo"," North Peak), Conventional, DMR, Ham, -  -
+1000, 774.243750, , -105, 823, NFM, 13, 00:00:03, 05/31/23 09:52:19, Golden Gate Bridge Highway and Transportation District / Simulcast, Bridge Operations, Bridge Patrol, P25 Trunk, Link, Security, -  -
+31666, 144.975000/1, CC1, -99, 3187670, NFM, 22, 00:01:20, 05/31/23 09:53:40, Contra Costa, Amateur Radio - DMR-MARC (Motorola Amateur Radio Club Worldwide, DMR-MARC - NorCal Bay Area (Mt Diablo"," North Peak), Conventional, DMR, Ham, -  -
+31666, 144.975000/1, CC1, -99, 3187670, NFM, 23, 00:02:10, 05/31/23 09:57:14, Contra Costa, Amateur Radio - DMR-MARC (Motorola Amateur Radio Club Worldwide, DMR-MARC - NorCal Bay Area (Mt Diablo"," North Peak), Conventional, DMR, Ham, -  -
+, 120.900000, , -80, , AM, 18, 00:00:02, 05/31/23 10:00:15, TRACONs, NORCAL Approach TRACON - Area D - North Bay, SFO/OAK East Departures, Conventional, , Aircraft, -  -
+31666, 144.975000, CC1, -98, 3187670, NFM, 25, 00:03:11, 05/31/23 10:01:41, Contra Costa, Amateur Radio - DMR-MARC (Motorola Amateur Radio Club Worldwide, DMR-MARC - NorCal Bay Area (Mt Diablo"," North Peak), Conventional, DMR, Ham, -  -
+18128, 482.937500, , -104, 60208, NFM, 54, 00:00:02, 05/31/23 10:05:55, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+31666, 144.975000/2, CC1, -98, 3187670, NFM, 26, 00:02:23, 05/31/23 10:07:07, Contra Costa, Amateur Radio - DMR-MARC (Motorola Amateur Radio Club Worldwide, DMR-MARC - NorCal Bay Area (Mt Diablo"," North Peak), Conventional, DMR, Ham, -  -
+31666, 144.975000/2, CC1, -98, 3187670, NFM, 27, 00:00:21, 05/31/23 10:09:30, Contra Costa, Amateur Radio - DMR-MARC (Motorola Amateur Radio Club Worldwide, DMR-MARC - NorCal Bay Area (Mt Diablo"," North Peak), Conventional, DMR, Ham, -  -
+101, 463.787500/2, CC5, -107, 1, NFM, 21, 00:00:08, 05/31/23 10:10:12, Attractions, San Pablo Lytton Casino, Channel 1, Conventional, DMR, Business, -  -
+, 463.900000, , -103, , FM, 248, 00:00:06, 05/31/23 10:10:32, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+, 858.762500, , -104, , FM, 9, 00:02:59, 05/31/23 10:11:00, Department of Transportation (Caltrans), Operations - Statewide, North, Conventional, , Public Works, -  -
+, 160.530000, , -104, , NFM, 25, 00:00:02, 05/31/23 10:15:17, Railroads - USA, Railroad Operations - AAR 001-097, Channel 028, Conventional, , Railroad, -  -
+, 463.900000, , -103, , FM, 251, 00:00:03, 05/31/23 10:15:59, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+, 858.762500, , -109, , FM, 10, 00:01:59, 05/31/23 10:16:22, Department of Transportation (Caltrans), Operations - Statewide, North, Conventional, , Public Works, -  -
+44912, 490.937500, , -100, 23004, NFM, 12, 00:00:46, 05/31/23 10:19:00, Marin Emergency Radio Authority (MERA) / East Zone, Countywide EMS, Marin General Hospital 1 (Consult), Motorola, P25, Hospital, -  -
+44912, 490.937500, , -102, 23004, NFM, 13, 00:00:02, 05/31/23 10:19:48, Marin Emergency Radio Authority (MERA) / East Zone, Countywide EMS, Marin General Hospital 1 (Consult), Motorola, P25, Hospital, -  -
+44912, 490.937500, , -106, 23004, NFM, 14, 00:00:02, 05/31/23 10:19:52, Marin Emergency Radio Authority (MERA) / East Zone, Countywide EMS, Marin General Hospital 1 (Consult), Motorola, P25, Hospital, -  -
+, 145.290000, C131.8, -83, , FM, 10, 00:00:02, 05/31/23 10:20:59, Alameda, Amateur Radio - 2 Meters, Berkeley, Conventional, , Ham, -  -
+, 145.290000, C131.8, -83, , FM, 11, 00:00:35, 05/31/23 10:21:03, Alameda, Amateur Radio - 2 Meters, Berkeley, Conventional, , Ham, -  -
+, 145.290000, C131.8, -84, , FM, 12, 00:00:45, 05/31/23 10:21:42, Alameda, Amateur Radio - 2 Meters, Berkeley, Conventional, , Ham, -  -
+1017, 852.612500, , -80, , NFM, 1, 00:00:15, 05/31/23 10:26:35, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, System Wide, Law Interop 3, P25 Trunk, PT0, Interop, -  -
+31666, 144.975000/1, CC1, -99, 3187670, NFM, 29, 00:00:33, 05/31/23 10:28:00, Contra Costa, Amateur Radio - DMR-MARC (Motorola Amateur Radio Club Worldwide, DMR-MARC - NorCal Bay Area (Mt Diablo"," North Peak), Conventional, DMR, Ham, -  -
+, 120.900000, , -95, , AM, 20, 00:00:03, 05/31/23 10:29:24, TRACONs, NORCAL Approach TRACON - Area D - North Bay, SFO/OAK East Departures, Conventional, , Aircraft, -  -
+1000, 774.243750, , -106, 823, NFM, 15, 00:00:02, 05/31/23 10:29:42, Golden Gate Bridge Highway and Transportation District / Simulcast, Bridge Operations, Bridge Patrol, P25 Trunk, Link, Security, -  -
+1000, 774.243750, , -106, 823, NFM, 16, 00:00:03, 05/31/23 10:29:46, Golden Gate Bridge Highway and Transportation District / Simulcast, Bridge Operations, Bridge Patrol, P25 Trunk, P25, Security, -  -
+1000, 774.243750, , -105, 823, NFM, 17, 00:00:02, 05/31/23 10:29:52, Golden Gate Bridge Highway and Transportation District / Simulcast, Bridge Operations, Bridge Patrol, P25 Trunk, Link, Security, -  -
+1000, 774.243750, , -106, 823, NFM, 18, 00:00:16, 05/31/23 10:29:55, Golden Gate Bridge Highway and Transportation District / Simulcast, Bridge Operations, Bridge Patrol, P25 Trunk, Link, Security, -  -
+, 160.560000, , -112, , NFM, 22, 00:00:05, 05/31/23 10:30:56, Railroads - USA, Railroad Operations - AAR 001-097, Channel 030, Conventional, , Railroad, -  -
+, 160.560000, , -74, , NFM, 23, 00:00:08, 05/31/23 10:31:04, Railroads - USA, Railroad Operations - AAR 001-097, Channel 030, Conventional, , Railroad, -  -
+31666, 144.975000/2, CC1, -98, 3187670, NFM, 30, 00:00:12, 05/31/23 10:31:41, Contra Costa, Amateur Radio - DMR-MARC (Motorola Amateur Radio Club Worldwide, DMR-MARC - NorCal Bay Area (Mt Diablo"," North Peak), Conventional, DMR, Ham, -  -
+31666, 144.975000/2, CC1, -107, 3187670, NFM, 31, 00:01:49, 05/31/23 10:31:55, Contra Costa, Amateur Radio - DMR-MARC (Motorola Amateur Radio Club Worldwide, DMR-MARC - NorCal Bay Area (Mt Diablo"," North Peak), Conventional, DMR, Ham, -  -
+6867, 144.975000/2, CC1, -108, , NFM, 1, 00:00:02, 05/31/23 10:33:45, Contra Costa, Amateur Radio - DMR-MARC (Motorola Amateur Radio Club Worldwide, DMR-MARC - NorCal Bay Area (Mt Diablo"," North Peak), Conventional, DMR, Ham, -  -
+31666, 144.975000/1, CC1, -108, 3187670, NFM, 32, 00:00:20, 05/31/23 10:33:47, Contra Costa, Amateur Radio - DMR-MARC (Motorola Amateur Radio Club Worldwide, DMR-MARC - NorCal Bay Area (Mt Diablo"," North Peak), Conventional, DMR, Ham, -  -
+31410, 144.975000/2, CC1, -98, , NFM, 1, 00:00:02, 05/31/23 10:34:07, Contra Costa, Amateur Radio - DMR-MARC (Motorola Amateur Radio Club Worldwide, DMR-MARC - NorCal Bay Area (Mt Diablo"," North Peak), Conventional, DMR, Ham, -  -
+31666, 144.975000/1, CC1, -98, 3187670, NFM, 33, 00:01:32, 05/31/23 10:34:10, Contra Costa, Amateur Radio - DMR-MARC (Motorola Amateur Radio Club Worldwide, DMR-MARC - NorCal Bay Area (Mt Diablo"," North Peak), Conventional, DMR, Ham, -  -
+31666, 144.975000/2, CC1, -98, 3187670, NFM, 34, 00:00:04, 05/31/23 10:35:43, Contra Costa, Amateur Radio - DMR-MARC (Motorola Amateur Radio Club Worldwide, DMR-MARC - NorCal Bay Area (Mt Diablo"," North Peak), Conventional, DMR, Ham, -  -
+31666, 144.975000/2, CC1, -98, 3187670, NFM, 35, 00:00:06, 05/31/23 10:35:47, Contra Costa, Amateur Radio - DMR-MARC (Motorola Amateur Radio Club Worldwide, DMR-MARC - NorCal Bay Area (Mt Diablo"," North Peak), Conventional, DMR, Ham, -  -
+, 120.900000, , -105, , AM, 21, 00:00:02, 05/31/23 10:36:42, TRACONs, NORCAL Approach TRACON - Area D - North Bay, SFO/OAK East Departures, Conventional, , Aircraft, -  -
+1000, 774.243750, , -104, 823, NFM, 19, 00:00:06, 05/31/23 10:36:58, Golden Gate Bridge Highway and Transportation District / Simulcast, Bridge Operations, Bridge Patrol, P25 Trunk, P25, Security, -  -
+, 156.165000, C162.2, -109, , NFM, 1, 00:00:21, 05/31/23 10:38:15, Alameda, Cities - Berkeley, Street Department, Conventional, , Public Works, -  -
+, 160.800000, , -106, , NFM, 16, 00:00:02, 05/31/23 10:39:05, California Railroads, Union Pacific (UP) - Martinez Subdivsion, Road - 10th Street to W Haggin, Conventional, , Railroad, -  -
+, 133.950000, , -91, , AM, 29, 00:00:05, 05/31/23 10:41:32, TRACONs, NORCAL Approach TRACON - Area B - SFO Arrivals, SFO North and West Arrivals Feeder, Conventional, , Aircraft, -  -
+, 122.700000, , -85, , AM, 2, 00:00:04, 05/31/23 10:46:22, Common Aviation - USA, Aviation, Unicom, Conventional, , Aircraft, -  -
+, 119.750000, , -91, , AM, 22, 00:00:02, 05/31/23 10:46:51, Oakland (ZOA) Air Route Traffic Control Center, California RCAG Sites - Angels Camp - RCAG, Sector 29 Int - Between FL240 - FL290, Conventional, , Aircraft, -  -
+, 125.850000, , -88, , AM, 39, 00:00:03, 05/31/23 10:47:01, Oakland (ZOA) Air Route Traffic Control Center, California RCAG Sites - Mt Tamalpais - RCAG, Sector 41 - Between 9000' - FL230, Conventional, , Aircraft, -  -
+, 125.850000, , -105, , AM, 41, 00:00:02, 05/31/23 10:47:07, Oakland (ZOA) Air Route Traffic Control Center, California RCAG Sites - Mt Tamalpais - RCAG, Sector 41 - Between 9000' - FL230, Conventional, , Aircraft, -  -
+1017, 852.925000, , -88, , NFM, 2, 00:00:25, 05/31/23 10:53:09, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, System Wide, Law Interop 3, P25 Trunk, PT0, Interop, -  -
+, 852.037500, , -112, , FM, 14, 00:00:04, 05/31/23 10:55:02, Department of Transportation (Caltrans), Operations - Statewide, South, Conventional, , Public Works, -  -
+, 160.665000, , -97, , NFM, 33, 00:00:02, 05/31/23 10:56:23, Railroads - USA, Railroad Operations - AAR 001-097, Channel 037, Conventional, , Railroad, -  -
+1017, 852.925000, , -82, , NFM, 3, 00:00:12, 05/31/23 10:57:59, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, System Wide, Law Interop 3, P25 Trunk, PT0, Interop, -  -
+, 145.490000, C107.2, -96, , FM, 9, 00:00:07, 05/31/23 10:59:17, Contra Costa, Amateur Radio - 2m Repeaters, Contra Costa Repeater Association - Orinda (Bald Peak), Conventional, , Ham, -  -
+, 463.900000, , -104, , FM, 266, 00:00:04, 05/31/23 10:59:46, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+, 463.900000, , -104, , FM, 268, 00:00:02, 05/31/23 10:59:55, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+, 463.900000, , -105, , FM, 274, 00:00:06, 05/31/23 11:00:11, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+18128, 482.625000, , -103, 60208, NFM, 56, 00:00:02, 05/31/23 11:01:19, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 482.625000, , -103, 60208, NFM, 57, 00:00:03, 05/31/23 11:01:23, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+, 463.900000, , -105, , FM, 277, 00:00:02, 05/31/23 11:02:54, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+, 463.900000, , -105, , FM, 278, 00:00:03, 05/31/23 11:02:56, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+, 463.900000, , -105, , FM, 279, 00:00:10, 05/31/23 11:03:00, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+, 463.900000, , -106, , FM, 282, 00:00:02, 05/31/23 11:03:14, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+, 463.900000, , -105, , FM, 284, 00:00:06, 05/31/23 11:03:19, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+, 463.900000, , -104, , FM, 286, 00:00:04, 05/31/23 11:03:31, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+, 852.037500, , -116, , FM, 24, 00:00:03, 05/31/23 11:04:06, Department of Transportation (Caltrans), Operations - Statewide, South, Conventional, , Public Works, -  -
+7728, 851.362500, , -79, 4010005, NFM, 9, 00:00:05, 05/31/23 11:06:53, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, Contra Costa County Services, Animal Control, P25 Trunk, PT1, Public Works, -  -
+, 463.900000, , -105, , FM, 299, 00:00:03, 05/31/23 11:11:05, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+624, 859.762500, , -115, 49383, NFM, 11, 00:00:07, 05/31/23 11:12:14, Caltrans (District 4 - North) / Big Rock Ridge (Rcvr Voting), Operations, Bay Bridge Tow, Motorola, , Public Works, -  -
+624, 859.762500, , -109, 49383, NFM, 12, 00:00:02, 05/31/23 11:12:23, Caltrans (District 4 - North) / Big Rock Ridge (Rcvr Voting), Operations, Bay Bridge Tow, Motorola, , Public Works, -  -
+1017, 852.612500, , -85, , NFM, 4, 00:00:27, 05/31/23 11:12:31, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, System Wide, Law Interop 3, P25 Trunk, PT0, Interop, -  -
+1017, 852.612500, , -86, , NFM, 5, 00:00:03, 05/31/23 11:13:00, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, System Wide, Law Interop 3, P25 Trunk, PT0, Interop, -  -
+, 156.600000, , -111, , FM, 20, 00:00:21, 05/31/23 11:18:40, Maritime - USA, Maritime Operations - Marine VHF 1A-88A, 12 - Port Operations, Conventional, , Transportation, -  -
+18128, 482.650000, , -100, 60208, NFM, 59, 00:00:02, 05/31/23 11:22:44, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+624, 856.762500, , -100, 49383, NFM, 13, 00:00:06, 05/31/23 11:25:06, Caltrans (District 4 - North) / Big Rock Ridge (Rcvr Voting), Operations, Bay Bridge Tow, Motorola, , Public Works, -  -
+, 145.290000, C131.8, -85, , FM, 13, 00:00:23, 05/31/23 11:26:34, Alameda, Amateur Radio - 2 Meters, Berkeley, Conventional, , Ham, -  -
+18128, 490.937500, , -104, 60208, NFM, 63, 00:00:02, 05/31/23 11:28:18, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 482.625000, , -108, 60208, NFM, 64, 00:00:02, 05/31/23 11:28:29, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, Link, Transportation, -  -
+, 145.290000, C131.8, -84, , FM, 15, 00:00:24, 05/31/23 11:29:37, Alameda, Amateur Radio - 2 Meters, Berkeley, Conventional, , Ham, -  -
+, 145.290000, C131.8, -84, , FM, 16, 00:00:20, 05/31/23 11:30:02, Alameda, Amateur Radio - 2 Meters, Berkeley, Conventional, , Ham, -  -
+9840, 482.650000, , -107, , NFM, 2, 00:00:02, 05/31/23 11:31:39, Marin Emergency Radio Authority (MERA) / East Zone, County Public Works, Roads - Nicasio Yard, Motorola, P25, Public Works, -  -
+9840, 482.650000, , -97, , NFM, 3, 00:00:02, 05/31/23 11:31:44, Marin Emergency Radio Authority (MERA) / East Zone, County Public Works, Roads - Nicasio Yard, Motorola, P25, Public Works, -  -
+9840, 482.650000, , -106, , NFM, 4, 00:00:05, 05/31/23 11:31:48, Marin Emergency Radio Authority (MERA) / East Zone, County Public Works, Roads - Nicasio Yard, Motorola, P25, Public Works, -  -
+, 127.675000, , -105, , AM, 7, 00:00:02, 05/31/23 11:34:07, TRACONs, NORCAL Approach TRACON - Area B - SFO Arrivals, Runway 28R Precision Runway Monitor (PRM) Approach, Conventional, , Aircraft, -  -
+1017, 852.937500, , -85, , NFM, 7, 00:00:04, 05/31/23 11:37:05, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, System Wide, Law Interop 3, P25 Trunk, PT1, Interop, -  -
+, 452.062500, , -103, , NFM, 3, 00:00:11, 05/31/23 11:38:37, California Railroads, Union Pacific (UP) - Control Links, Bay Area Link, Conventional, , Railroad, -  -
+, 452.062500, , -101, , NFM, 4, 00:00:09, 05/31/23 11:38:51, California Railroads, Union Pacific (UP) - Control Links, Bay Area Link, Conventional, , Railroad, -  -
+18128, 482.650000, , -105, 60208, NFM, 65, 00:00:10, 05/31/23 11:41:54, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+, 156.165000, C162.2, -107, , NFM, 2, 00:00:02, 05/31/23 11:43:04, Alameda, Cities - Berkeley, Street Department, Conventional, , Public Works, -  -
+1000, 774.243750, , -105, 823, NFM, 20, 00:00:02, 05/31/23 11:44:16, Golden Gate Bridge Highway and Transportation District / Simulcast, Bridge Operations, Bridge Patrol, P25 Trunk, Link, Security, -  -
+18128, 490.937500, , -109, 60208, NFM, 66, 00:00:04, 05/31/23 11:46:54, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, Link, Transportation, -  -
+105, 461.462500/2, CC8, -111, 1, NFM, 4, 00:00:04, 05/31/23 11:48:18, Attractions, San Pablo Lytton Casino, Channel 2, Conventional, DMR, Business, -  -
+1017, 852.925000, , -79, , NFM, 8, 00:00:02, 05/31/23 11:51:18, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, System Wide, Law Interop 3, P25 Trunk, PT1, Interop, -  -
+1017, 851.362500, , -85, , NFM, 9, 00:00:03, 05/31/23 11:51:22, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, System Wide, Law Interop 3, P25 Trunk, PT1, Interop, -  -
+9680, 482.625000, , -105, 60814, NFM, 5, 00:00:03, 05/31/23 11:51:35, Marin Emergency Radio Authority (MERA) / East Zone, Marin Humane Society, Marin Humane Society (Animal Control), Motorola, P25, Public Works, -  -
+1017, 852.937500, , -86, , NFM, 10, 00:00:07, 05/31/23 11:53:57, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, System Wide, Law Interop 3, P25 Trunk, PT1, Interop, -  -
+1017, 852.925000, , -85, , NFM, 11, 00:00:28, 05/31/23 11:54:05, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, System Wide, Law Interop 3, P25 Trunk, PT0, Interop, -  -
+44912, 482.625000, , -96, 23004, NFM, 16, 00:00:17, 05/31/23 11:54:44, Marin Emergency Radio Authority (MERA) / East Zone, Countywide EMS, Marin General Hospital 1 (Consult), Motorola, P25, Hospital, -  -
+1017, 852.925000, , -85, , NFM, 12, 00:00:14, 05/31/23 11:57:16, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, System Wide, Law Interop 3, P25 Trunk, PT0, Interop, -  -
+1017, 852.600000, , -82, , NFM, 13, 00:00:04, 05/31/23 11:57:32, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, System Wide, Law Interop 3, P25 Trunk, PT0, Interop, -  -
+, 156.800000, , -88, , FM, 2, 00:00:02, 05/31/23 12:00:21, Maritime - USA, Maritime Operations - Marine VHF 1A-88A, 16 - Hailing / Calling / Distress, Conventional, , Transportation, -  -
+, 467.662500, D053, -120, , NFM, 20, 00:00:05, 05/31/23 12:02:32, Family Radio Service (FRS) - USA, Family Radio Service (FRS), Channel 12, Conventional, , Other, -  -
+, 157.100000, , -89, , FM, 4, 00:04:23, 05/31/23 12:02:46, Maritime - USA, Maritime Operations - Marine VHF 1A-88A, 22A - Coast Guard Liaison/Maritime Safety Information Broadcasts, Conventional, , Federal, -  -
+, 134.150000, , -106, , AM, 3, 00:00:04, 05/31/23 12:07:19, Oakland (ZOA) Air Route Traffic Control Center, California RCAG Sites - Ferndale - RCAG, Sector 35 Oceanic, Conventional, , Aircraft, -  -
+, 118.700000, , -85, , AM, 2, 00:00:04, 05/31/23 12:07:59, Airports, Napa County (APC) - Airfield Operations, Tower VHF, Conventional, , Aircraft, -  -
+7728, 852.612500, , -87, 4010005, NFM, 11, 00:00:02, 05/31/23 12:09:01, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, Contra Costa County Services, Animal Control, P25 Trunk, PT1, Public Works, -  -
+, 135.100000, , -101, , AM, 19, 00:00:03, 05/31/23 12:10:58, TRACONs, NORCAL Approach TRACON - Area D - North Bay, SFO/OAK West Departures, Conventional, , Aircraft, -  -
+, 463.900000, , -106, , FM, 341, 00:00:06, 05/31/23 12:12:38, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+, 463.900000, , -105, , FM, 349, 00:00:04, 05/31/23 12:13:07, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+, 463.900000, , -104, , FM, 351, 00:00:02, 05/31/23 12:13:15, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+, 463.900000, , -104, , FM, 353, 00:00:05, 05/31/23 12:13:20, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+1017, 852.612500, , -84, , NFM, 14, 00:00:14, 05/31/23 12:18:52, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, System Wide, Law Interop 3, P25 Trunk, PT1, Interop, -  -
+1017, 852.925000, , -84, , NFM, 15, 00:00:28, 05/31/23 12:19:08, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, System Wide, Law Interop 3, P25 Trunk, PT0, Interop, -  -
+1017, 852.612500, , -83, , NFM, 16, 00:00:25, 05/31/23 12:19:38, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, System Wide, Law Interop 3, P25 Trunk, PT0, Interop, -  -
+1017, 852.925000, , -80, , NFM, 17, 00:00:20, 05/31/23 12:20:05, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, System Wide, Law Interop 3, P25 Trunk, PT0, Interop, -  -
+, 145.490000, C107.2, -96, , FM, 10, 00:00:11, 05/31/23 12:21:37, Contra Costa, Amateur Radio - 2m Repeaters, Contra Costa Repeater Association - Orinda (Bald Peak), Conventional, , Ham, -  -
+, 145.490000, C107.2, -96, , FM, 11, 00:01:07, 05/31/23 12:21:52, Contra Costa, Amateur Radio - 2m Repeaters, Contra Costa Repeater Association - Orinda (Bald Peak), Conventional, , Ham, -  -
+, 145.490000, C107.2, -94, , FM, 15, 00:00:22, 05/31/23 12:24:05, Contra Costa, Amateur Radio - 2m Repeaters, Contra Costa Repeater Association - Orinda (Bald Peak), Conventional, , Ham, -  -
+, 145.490000, C107.2, -93, , FM, 16, 00:01:04, 05/31/23 12:24:29, Contra Costa, Amateur Radio - 2m Repeaters, Contra Costa Repeater Association - Orinda (Bald Peak), Conventional, , Ham, -  -
+18128, 489.912500, , -102, 60208, NFM, 68, 00:00:06, 05/31/23 12:26:54, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 489.912500, , -101, 60208, NFM, 69, 00:00:29, 05/31/23 12:27:04, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 482.650000, , -99, 60208, NFM, 70, 00:00:04, 05/31/23 12:27:41, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 482.650000, , -102, 60208, NFM, 71, 00:00:03, 05/31/23 12:27:48, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 482.650000, , -102, 60208, NFM, 72, 00:00:03, 05/31/23 12:27:53, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+, 145.490000, C107.2, -99, , FM, 18, 00:00:03, 05/31/23 12:28:55, Contra Costa, Amateur Radio - 2m Repeaters, Contra Costa Repeater Association - Orinda (Bald Peak), Conventional, , Ham, -  -
+, 145.490000, C107.2, -92, , FM, 19, 00:00:38, 05/31/23 12:28:58, Contra Costa, Amateur Radio - 2m Repeaters, Contra Costa Repeater Association - Orinda (Bald Peak), Conventional, , Ham, -  -
+1017, 852.937500, , -85, , NFM, 18, 00:00:11, 05/31/23 12:30:40, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, System Wide, Law Interop 3, P25 Trunk, PT1, Interop, -  -
+1017, 852.600000, , -85, , NFM, 19, 00:00:14, 05/31/23 12:30:54, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, System Wide, Law Interop 3, P25 Trunk, PT0, Interop, -  -
+1017, 852.600000, , -85, , NFM, 20, 00:00:14, 05/31/23 12:31:10, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, System Wide, Law Interop 3, P25 Trunk, PT0, Interop, -  -
+, 160.530000, , -104, , NFM, 29, 00:00:02, 05/31/23 12:32:15, Railroads - USA, Railroad Operations - AAR 001-097, Channel 028, Conventional, , Railroad, -  -
+11959336, 483.837500/2, CC3, -108, 11952472, NFM, 13, 00:00:08, 05/31/23 12:32:33, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Airport Shuttles, MotoTRBO Trunk, CON, Transportation, -  -
+11959336, 483.837500/2, CC3, -109, 11952472, NFM, 14, 00:00:02, 05/31/23 12:32:42, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Airport Shuttles, MotoTRBO Trunk, CON, Transportation, -  -
+11909804, 463.887500/2, CC3, -112, 11909489, NFM, 41, 00:00:02, 05/31/23 12:35:01, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+, 145.490000, C107.2, -94, , FM, 20, 00:00:31, 05/31/23 12:35:19, Contra Costa, Amateur Radio - 2m Repeaters, Contra Costa Repeater Association - Orinda (Bald Peak), Conventional, , Ham, -  -
+, 145.490000, C107.2, -96, , FM, 21, 00:00:25, 05/31/23 12:35:51, Contra Costa, Amateur Radio - 2m Repeaters, Contra Costa Repeater Association - Orinda (Bald Peak), Conventional, , Ham, -  -
+, 145.490000, C107.2, -101, , FM, 22, 00:00:15, 05/31/23 12:36:18, Contra Costa, Amateur Radio - 2m Repeaters, Contra Costa Repeater Association - Orinda (Bald Peak), Conventional, , Ham, -  -
+, 145.490000, C107.2, -103, , FM, 23, 00:00:40, 05/31/23 12:36:33, Contra Costa, Amateur Radio - 2m Repeaters, Contra Costa Repeater Association - Orinda (Bald Peak), Conventional, , Ham, -  -
+, 145.490000, C107.2, -99, , FM, 24, 00:01:03, 05/31/23 12:37:15, Contra Costa, Amateur Radio - 2m Repeaters, Contra Costa Repeater Association - Orinda (Bald Peak), Conventional, , Ham, -  -
+, 145.490000, C107.2, -97, , FM, 25, 00:00:24, 05/31/23 12:38:19, Contra Costa, Amateur Radio - 2m Repeaters, Contra Costa Repeater Association - Orinda (Bald Peak), Conventional, , Ham, -  -
+, 145.490000, C107.2, -96, , FM, 26, 00:00:45, 05/31/23 12:38:45, Contra Costa, Amateur Radio - 2m Repeaters, Contra Costa Repeater Association - Orinda (Bald Peak), Conventional, , Ham, -  -
+, 145.490000, C107.2, -92, , FM, 27, 00:00:43, 05/31/23 12:39:31, Contra Costa, Amateur Radio - 2m Repeaters, Contra Costa Repeater Association - Orinda (Bald Peak), Conventional, , Ham, -  -
+, 145.490000, C107.2, -94, , FM, 28, 00:01:41, 05/31/23 12:40:16, Contra Costa, Amateur Radio - 2m Repeaters, Contra Costa Repeater Association - Orinda (Bald Peak), Conventional, , Ham, -  -
+101, 463.787500, CC5, -108, 1, NFM, 22, 00:00:07, 05/31/23 12:42:15, Attractions, San Pablo Lytton Casino, Channel 1, Conventional, DMR, Business, -  -
+, 463.900000, , -106, , FM, 361, 00:00:02, 05/31/23 12:42:27, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+, 463.900000, , -106, , FM, 362, 00:00:05, 05/31/23 12:42:31, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+, 160.530000, , -104, , NFM, 30, 00:00:02, 05/31/23 12:44:45, Railroads - USA, Railroad Operations - AAR 001-097, Channel 028, Conventional, , Railroad, -  -
+, 145.490000, C107.2, -97, , FM, 29, 00:00:23, 05/31/23 12:45:13, Contra Costa, Amateur Radio - 2m Repeaters, Contra Costa Repeater Association - Orinda (Bald Peak), Conventional, , Ham, -  -
+, 145.490000, C107.2, -96, , FM, 30, 00:01:04, 05/31/23 12:45:39, Contra Costa, Amateur Radio - 2m Repeaters, Contra Costa Repeater Association - Orinda (Bald Peak), Conventional, , Ham, -  -
+, 145.490000, C107.2, -96, , FM, 32, 00:00:12, 05/31/23 12:46:46, Contra Costa, Amateur Radio - 2m Repeaters, Contra Costa Repeater Association - Orinda (Bald Peak), Conventional, , Ham, -  -
+, 145.490000, C107.2, -96, , FM, 33, 00:00:46, 05/31/23 12:47:00, Contra Costa, Amateur Radio - 2m Repeaters, Contra Costa Repeater Association - Orinda (Bald Peak), Conventional, , Ham, -  -
+, 145.490000, C107.2, -96, , FM, 34, 00:01:09, 05/31/23 12:47:47, Contra Costa, Amateur Radio - 2m Repeaters, Contra Costa Repeater Association - Orinda (Bald Peak), Conventional, , Ham, -  -
+, 160.560000, , -74, , NFM, 26, 00:00:03, 05/31/23 12:49:58, California Railroads, BNSF Railway - San Diego Yard, Metro 30, Conventional, , Railroad, -  -
+, 160.560000, , -74, , NFM, 30, 00:00:04, 05/31/23 12:50:07, California Railroads, BNSF Railway - San Diego Yard, Metro 30, Conventional, , Railroad, -  -
+, 160.560000, , -74, , NFM, 32, 00:00:03, 05/31/23 12:50:14, California Railroads, BNSF Railway - San Diego Yard, Metro 30, Conventional, , Railroad, -  -
+, 145.490000, C107.2, -103, , FM, 35, 00:00:33, 05/31/23 12:52:07, Contra Costa, Amateur Radio - 2m Repeaters, Contra Costa Repeater Association - Orinda (Bald Peak), Conventional, , Ham, -  -
+, 145.490000, C107.2, -90, , FM, 36, 00:00:45, 05/31/23 12:52:41, Contra Costa, Amateur Radio - 2m Repeaters, Contra Costa Repeater Association - Orinda (Bald Peak), Conventional, , Ham, -  -
+, 145.490000, C107.2, -93, , FM, 37, 00:00:24, 05/31/23 12:53:28, Contra Costa, Amateur Radio - 2m Repeaters, Contra Costa Repeater Association - Orinda (Bald Peak), Conventional, , Ham, -  -
+, 145.490000, C107.2, -93, , FM, 38, 00:00:14, 05/31/23 12:53:53, Contra Costa, Amateur Radio - 2m Repeaters, Contra Costa Repeater Association - Orinda (Bald Peak), Conventional, , Ham, -  -
+, 855.712500, D125, -110, , FM, 3, 00:00:04, 05/31/23 12:54:37, Department of Transportation (Caltrans), Operations - Statewide, Border Area, Conventional, , Public Works, -  -
+, 855.712500, D125, -110, , FM, 5, 00:00:24, 05/31/23 12:54:46, Department of Transportation (Caltrans), Operations - Statewide, Border Area, Conventional, , Public Works, -  -
+, 123.150000, , -91, , AM, 1, 00:00:02, 05/31/23 12:56:15, Common Aviation - USA, Aviation, Flight Test itinerant, Conventional, , Business, -  -
+, 462.700000, D132, -116, , FM, 1, 00:00:04, 05/31/23 12:56:31, General Mobile Radio Service (GMRS) - USA, GMRS, 462.7000 Simplex/Repeater, Conventional, , Other, -  -
+, 162.500000, , -109, , FM, 52, 00:00:02, 05/31/23 12:56:52, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+11909804, 461.937500/2, CC3, -110, 11909489, NFM, 42, 00:00:02, 05/31/23 12:57:13, Fisher Wireless TeamTalk / Grizzly Peak, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+, 145.290000, C131.8, -82, , FM, 17, 00:00:14, 05/31/23 12:57:29, Alameda, Amateur Radio - 2 Meters, Berkeley, Conventional, , Ham, -  -
+, 856.762500, , -105, , FM, 10, 00:00:15, 05/31/23 12:58:22, Department of Transportation (Caltrans), Operations - Statewide, North, Conventional, , Public Works, -  -
+, 145.290000, C131.8, -80, , FM, 18, 00:01:08, 05/31/23 13:00:19, Alameda, Amateur Radio - 2 Meters, Berkeley, Conventional, , Ham, -  -
+18128, 489.912500, , -107, 60208, NFM, 75, 00:00:13, 05/31/23 13:02:49, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 489.912500, , -102, 60208, NFM, 76, 00:00:02, 05/31/23 13:03:05, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 482.650000, , -98, 60208, NFM, 78, 00:00:02, 05/31/23 13:03:14, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+11909804, 463.887500/2, CC3, -114, 11909489, NFM, 44, 00:00:02, 05/31/23 13:04:20, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+1000, 774.243750, , -105, 823, NFM, 21, 00:00:04, 05/31/23 13:05:42, Golden Gate Bridge Highway and Transportation District / Simulcast, Bridge Operations, Bridge Patrol, P25 Trunk, Link, Security, -  -
+, 463.900000, , -103, , FM, 384, 00:00:07, 05/31/23 13:07:31, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+1001, 774.243750, , -105, , NFM, 1, 00:00:02, 05/31/23 13:08:37, Golden Gate Bridge Highway and Transportation District / Simulcast, Bridge Operations, Bridge Maintenance, P25 Trunk, Link, Public Works, -  -
+, 145.290000, C131.8, -84, , FM, 19, 00:00:03, 05/31/23 13:09:41, Alameda, Amateur Radio - 2 Meters, Berkeley, Conventional, , Ham, -  -
+, 118.700000, , -111, , AM, 3, 00:00:08, 05/31/23 13:09:58, Airports, Napa County (APC) - Airfield Operations, Tower VHF, Conventional, , Aircraft, -  -
+1017, 852.612500, , -81, , NFM, 22, 00:00:09, 05/31/23 13:11:01, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, System Wide, Law Interop 3, P25 Trunk, PT0, Interop, -  -
+1017, 852.612500, , -79, , NFM, 23, 00:00:19, 05/31/23 13:11:11, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, System Wide, Law Interop 3, P25 Trunk, PT0, Interop, -  -
+1017, 852.612500, , -85, , NFM, 24, 00:00:06, 05/31/23 13:11:33, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, System Wide, Law Interop 3, P25 Trunk, PT0, Interop, -  -
+11909804, 483.837500/2, CC3, -105, 11909489, NFM, 46, 00:00:08, 05/31/23 13:12:45, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+, 125.850000, , -79, , AM, 45, 00:00:02, 05/31/23 13:14:53, Oakland (ZOA) Air Route Traffic Control Center, California RCAG Sites - Mt Tamalpais - RCAG, Sector 41 - Between 9000' - FL230, Conventional, , Aircraft, -  -
+624, 856.762500, , -101, 49383, NFM, 14, 00:00:04, 05/31/23 13:18:25, Caltrans (District 4 - North) / Big Rock Ridge (Rcvr Voting), Operations, Bay Bridge Tow, Motorola, , Public Works, -  -
+624, 859.762500, , -113, 49383, NFM, 15, 00:00:06, 05/31/23 13:18:29, Caltrans (District 4 - North) / Big Rock Ridge (Rcvr Voting), Operations, Bay Bridge Tow, Motorola, , Public Works, -  -
+44912, 482.787500, , -99, 23004, NFM, 17, 00:00:04, 05/31/23 13:18:52, Marin Emergency Radio Authority (MERA) / East Zone, Countywide EMS, Marin General Hospital 1 (Consult), Motorola, P25, Hospital, -  -
+44912, 482.787500, , -92, 23004, NFM, 18, 00:00:03, 05/31/23 13:18:59, Marin Emergency Radio Authority (MERA) / East Zone, Countywide EMS, Marin General Hospital 1 (Consult), Motorola, P25, Hospital, -  -
+44912, 482.937500, , -98, 23004, NFM, 20, 00:00:02, 05/31/23 13:19:10, Marin Emergency Radio Authority (MERA) / East Zone, Countywide EMS, Marin General Hospital 1 (Consult), Motorola, P25, Hospital, -  -
+, 145.330000, , -108, , FM, 42, 00:00:02, 05/31/23 13:22:42, Contra Costa, Amateur Radio - 2m Repeaters, Mt Diablo, Conventional, , Ham, -  -
+11909804, 483.837500/2, CC3, -106, 11909489, NFM, 48, 00:00:23, 05/31/23 13:25:01, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+11909804, 483.837500/2, CC3, -106, 11909489, NFM, 49, 00:00:05, 05/31/23 13:25:25, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+18128, 489.912500, , -104, 60208, NFM, 79, 00:00:11, 05/31/23 13:26:57, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+11909804, 490.737500/1, CC3, -107, 11909489, NFM, 50, 00:00:06, 05/31/23 13:28:01, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+11999494, 463.887500/2, CC3, -113, , NFM, 1, 00:00:12, 05/31/23 13:34:33, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Towing (Willits - Ukiah Area), MotoTRBO Trunk, CON, Business, -  -
+11999494, 490.737500/2, CC3, -106, , NFM, 2, 00:00:02, 05/31/23 13:34:52, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Towing (Willits - Ukiah Area), MotoTRBO Trunk, CON, Business, -  -
+11999494, 490.737500/2, CC3, -107, , NFM, 3, 00:00:08, 05/31/23 13:35:00, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Towing (Willits - Ukiah Area), MotoTRBO Trunk, CON, Business, -  -
+, 145.290000, C131.8, -82, , FM, 20, 00:00:10, 05/31/23 13:35:22, Alameda, Amateur Radio - 2 Meters, Berkeley, Conventional, , Ham, -  -
+, 29.600000, , -104, , FM, 171, 00:00:16, 05/31/23 13:36:56, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 160.800000, , -106, , NFM, 18, 00:00:02, 05/31/23 13:38:48, California Railroads, Union Pacific (UP) - Tracy Subdivision, Road - MP 80.7 to Martinez, Conventional, , Railroad, -  -
+18128, 482.787500, , -99, 60208, NFM, 80, 00:00:02, 05/31/23 13:41:51, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 482.625000, , -97, 60208, NFM, 81, 00:00:02, 05/31/23 13:41:58, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 482.625000, , -97, 60208, NFM, 82, 00:00:02, 05/31/23 13:42:02, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+, 125.850000, , -80, , AM, 46, 00:00:03, 05/31/23 13:42:47, Oakland (ZOA) Air Route Traffic Control Center, California RCAG Sites - Mt Tamalpais - RCAG, Sector 41 - Between 9000' - FL230, Conventional, , Aircraft, -  -
+11909804, 461.412500/1, CC3, -108, 11909489, NFM, 51, 00:00:07, 05/31/23 13:45:15, Fisher Wireless TeamTalk / Grizzly Peak, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+, 451.812500, , -101, , NFM, 7, 00:00:07, 05/31/23 13:49:09, Common Business - USA, UHF, Business, Conventional, , Business, -  -
+101, 463.787500/1, CC5, -108, 1, NFM, 23, 00:00:04, 05/31/23 13:50:22, Attractions, San Pablo Lytton Casino, Channel 1, Conventional, DMR, Business, -  -
+, 463.900000, , -108, , FM, 394, 00:00:04, 05/31/23 13:52:37, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+, 463.900000, , -108, , FM, 397, 00:00:02, 05/31/23 13:52:47, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+, 463.900000, , -107, , FM, 405, 00:00:03, 05/31/23 13:53:11, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+, 856.762500, , -99, , FM, 11, 00:00:02, 05/31/23 13:53:36, Department of Transportation (Caltrans), Operations - Statewide, North, Conventional, , Public Works, -  -
+, 135.650000, , -97, , AM, 1, 00:00:03, 05/31/23 13:54:00, TRACONs, NORCAL Approach TRACON - Area B - SFO Arrivals, SFO Rwy 28L Final, Conventional, , Aircraft, -  -
+11909804, 490.737500/2, CC3, -110, 11909489, NFM, 52, 00:00:04, 05/31/23 13:57:23, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+11909804, 463.887500/1, CC3, -114, 11909489, NFM, 53, 00:00:05, 05/31/23 13:57:31, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+11909804, 463.887500, CC3, -114, 11909489, NFM, 54, 00:00:02, 05/31/23 13:57:39, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+, 463.900000, , -106, , FM, 414, 00:00:07, 05/31/23 13:58:31, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+, 463.900000, , -107, , FM, 416, 00:00:03, 05/31/23 13:58:43, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+, 463.900000, , -107, , FM, 417, 00:00:02, 05/31/23 13:58:48, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+101, 463.787500/1, CC5, -112, 1, NFM, 24, 00:00:04, 05/31/23 14:03:32, Attractions, San Pablo Lytton Casino, Channel 1, Conventional, DMR, Business, -  -
+, 127.975000, , -73, , AM, 5, 00:00:02, 05/31/23 14:08:25, TRACONs, NORCAL Approach TRACON - Area D - North Bay, West Departures, Conventional, , Aircraft, -  -
+18128, 489.912500, , -105, 60208, NFM, 84, 00:00:08, 05/31/23 14:08:56, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 489.912500, , -107, 60208, NFM, 85, 00:00:02, 05/31/23 14:09:07, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+, 127.800000, , -76, , AM, 7, 00:00:03, 05/31/23 14:10:03, Oakland (ZOA) Air Route Traffic Control Center, California RCAG Sites - Mt Tamalpais - RCAG, Sector 40 - Below 8000', Conventional, , Aircraft, -  -
+, 160.335000, , -101, , NFM, 15, 00:00:02, 05/31/23 14:10:10, Railroads - USA, Railroad Operations - AAR 001-097, Channel 015, Conventional, , Railroad, -  -
+11909804, 463.887500/2, CC3, -113, 11909489, NFM, 56, 00:00:07, 05/31/23 14:10:30, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+11909804, 490.737500/1, CC3, -108, 11909489, NFM, 57, 00:00:05, 05/31/23 14:10:42, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+11909804, 490.737500/2, CC3, -111, 11909489, NFM, 58, 00:00:08, 05/31/23 14:10:51, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+11909804, 490.737500/2, CC3, -108, 11909489, NFM, 59, 00:00:02, 05/31/23 14:11:04, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+11909804, 451.009375/2, CC4, -109, 11909489, NFM, 60, 00:00:09, 05/31/23 14:11:18, Fisher Wireless TeamTalk / Mt Tamalpais, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+, 133.950000, , -83, , AM, 30, 00:00:02, 05/31/23 14:12:25, TRACONs, NORCAL Approach TRACON - Area B - SFO Arrivals, SFO North and West Arrivals Feeder, Conventional, , Aircraft, -  -
+, 127.450000, , -104, , AM, 10, 00:00:03, 05/31/23 14:13:29, Oakland (ZOA) Air Route Traffic Control Center, California RCAG Sites - Hollister - RCAG, Sector 13 High - Above FL280, Conventional, , Aircraft, -  -
+11909804, 490.737500/1, CC3, -108, 11909489, NFM, 62, 00:00:02, 05/31/23 14:13:51, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+11909804, 490.737500/2, CC3, -108, 11909489, NFM, 63, 00:00:03, 05/31/23 14:13:54, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+11909804, 490.737500/2, CC3, -108, 11909489, NFM, 64, 00:00:05, 05/31/23 14:13:58, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+, 160.335000, , -100, , NFM, 16, 00:00:02, 05/31/23 14:16:10, Railroads - USA, Railroad Operations - AAR 001-097, Channel 015, Conventional, , Railroad, -  -
+45840, 482.650000, , -98, 21012, NFM, 15, 00:00:02, 05/31/23 14:17:41, Marin Emergency Radio Authority (MERA) / East Zone, County Sheriff, Jail 1, Motorola, P25, Corrections, -  -
+624, 856.762500, , -98, 49383, NFM, 16, 00:00:08, 05/31/23 14:24:36, Caltrans (District 4 - North) / Big Rock Ridge (Rcvr Voting), Operations, Bay Bridge Tow, Motorola, , Public Works, -  -
+101, 463.787500, CC5, -109, 1, NFM, 25, 00:00:07, 05/31/23 14:28:21, Attractions, San Pablo Lytton Casino, Channel 1, Conventional, DMR, Business, -  -
+, 156.800000, , -92, , FM, 3, 00:00:04, 05/31/23 14:29:56, Maritime - USA, Maritime Operations - Marine VHF 1A-88A, 16 - Hailing / Calling / Distress, Conventional, , Transportation, -  -
+18128, 482.625000, , -96, 60208, NFM, 87, 00:00:02, 05/31/23 14:31:46, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+, 157.100000, , -91, , FM, 5, 00:04:25, 05/31/23 14:32:21, Maritime - USA, Maritime Operations - Marine VHF 1A-88A, 22A - Coast Guard Liaison/Maritime Safety Information Broadcasts, Conventional, , Federal, -  -
+, 856.762500, , -99, , FM, 12, 00:00:07, 05/31/23 14:37:52, Department of Transportation (Caltrans), Operations - Statewide, North, Conventional, , Public Works, -  -
+18128, 489.912500, , -106, 60208, NFM, 88, 00:00:04, 05/31/23 14:38:42, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 489.912500, , -108, 60208, NFM, 89, 00:00:10, 05/31/23 14:38:48, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 482.787500, , -98, 60208, NFM, 90, 00:00:08, 05/31/23 14:43:05, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 482.787500, , -98, 60208, NFM, 91, 00:00:03, 05/31/23 14:43:16, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 482.937500, , -96, 60208, NFM, 92, 00:00:03, 05/31/23 14:43:37, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+7728, 852.925000, , -85, 4010005, NFM, 12, 00:00:10, 05/31/23 14:45:38, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, Contra Costa County Services, Animal Control, P25 Trunk, PT0, Public Works, -  -
+, 145.290000, C131.8, -84, , FM, 22, 00:00:24, 05/31/23 14:46:56, Alameda, Amateur Radio - 2 Meters, Berkeley, Conventional, , Ham, -  -
+, 145.290000, C131.8, -82, , FM, 23, 00:00:09, 05/31/23 14:47:22, Alameda, Amateur Radio - 2 Meters, Berkeley, Conventional, , Ham, -  -
+, 133.950000, , -87, , AM, 31, 00:00:02, 05/31/23 14:50:39, TRACONs, NORCAL Approach TRACON - Area B - SFO Arrivals, SFO North and West Arrivals Feeder, Conventional, , Aircraft, -  -
+, 125.850000, , -76, , AM, 48, 00:00:03, 05/31/23 14:51:39, Oakland (ZOA) Air Route Traffic Control Center, California RCAG Sites - Mt Tamalpais - RCAG, Sector 41 - Between 9000' - FL230, Conventional, , Aircraft, -  -
+11909804, 461.937500/1, CC3, -109, 11909489, NFM, 65, 00:00:03, 05/31/23 14:52:07, Fisher Wireless TeamTalk / Grizzly Peak, Northern California, Hayward USD Buses, MotoTRBO Trunk, CON, Schools, -  -
+, 123.075000, , -88, , AM, 7, 00:00:04, 05/31/23 14:54:39, Airports, Gnoss Field (DVO) - Airfield Operations, Common Traffic Advisory Freq, Conventional, , Aircraft, -  -
+101, 463.787500/1, CC5, -109, 1, NFM, 26, 00:00:08, 05/31/23 14:59:04, Attractions, San Pablo Lytton Casino, Channel 1, Conventional, DMR, Business, -  -
+, 856.762500, , -98, , FM, 14, 00:00:02, 05/31/23 14:59:29, Department of Transportation (Caltrans), Operations - Statewide, North, Conventional, , Public Works, -  -
+, 29.600000, , -104, , FM, 180, 00:00:02, 05/31/23 15:00:25, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -104, , FM, 182, 00:00:11, 05/31/23 15:00:29, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -104, , FM, 187, 00:00:02, 05/31/23 15:00:44, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 160.965000, , -104, , NFM, 44, 00:00:02, 05/31/23 15:04:11, California Railroads, North County Transit District (NCTD) - Operations, Escondido Subdivision - Road, Conventional, , Railroad, -  -
+, 156.600000, , -106, , FM, 21, 00:00:05, 05/31/23 15:05:34, Maritime - USA, Maritime Operations - Marine VHF 1A-88A, 12 - Port Operations, Conventional, , Transportation, -  -
+45840, 482.625000, , -98, 21012, NFM, 16, 00:00:06, 05/31/23 15:07:16, Marin Emergency Radio Authority (MERA) / East Zone, County Sheriff, Jail 1, Motorola, P25, Corrections, -  -
+101, 463.787500, CC5, -109, 1, NFM, 27, 00:00:08, 05/31/23 15:19:12, Attractions, San Pablo Lytton Casino, Channel 1, Conventional, DMR, Business, -  -
+1000, 774.243750, , -119, 823, NFM, 23, 00:00:02, 05/31/23 15:20:15, Golden Gate Bridge Highway and Transportation District / Simulcast, Bridge Operations, Bridge Patrol, P25 Trunk, Link, Security, -  -
+, 162.500000, , -109, , FM, 53, 00:00:37, 05/31/23 15:23:30, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+101, 463.787500, CC5, -108, 1, NFM, 28, 00:00:09, 05/31/23 15:24:54, Attractions, San Pablo Lytton Casino, Channel 1, Conventional, DMR, Business, -  -
+101, 463.787500, CC5, -106, 1, NFM, 29, 00:00:05, 05/31/23 15:25:03, Attractions, San Pablo Lytton Casino, Channel 1, Conventional, DMR, Business, -  -
+, 162.500000, , -111, , FM, 54, 00:00:10, 05/31/23 15:26:36, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -109, , FM, 57, 00:00:47, 05/31/23 15:26:50, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -109, , FM, 58, 00:00:06, 05/31/23 15:27:37, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -109, , FM, 59, 00:00:02, 05/31/23 15:27:45, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -110, , FM, 60, 00:00:03, 05/31/23 15:27:48, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -109, , FM, 61, 00:00:05, 05/31/23 15:27:51, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -109, , FM, 63, 00:00:02, 05/31/23 15:27:58, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -109, , FM, 67, 00:00:03, 05/31/23 15:28:05, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 345.600000, , -111, , AM, 1, 00:00:02, 05/31/23 15:30:06, Common Military - USA, Common - Aeronautical, USAF Common [Straight], Conventional, , Military, -  -
+, 345.600000, , -111, , AM, 2, 00:00:02, 05/31/23 15:30:09, Common Military - USA, Common - Aeronautical, USAF Common [Straight], Conventional, , Military, -  -
+, 345.600000, , -110, , AM, 3, 00:00:05, 05/31/23 15:30:11, Common Military - USA, Common - Aeronautical, USAF Common [Straight], Conventional, , Military, -  -
+, 162.500000, , -112, , FM, 69, 00:00:07, 05/31/23 15:30:34, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 145.330000, C100.0, -113, , FM, 43, 00:00:02, 05/31/23 15:31:14, Contra Costa, Amateur Radio - 2m Repeaters, Mt Diablo, Conventional, , Ham, -  -
+, 145.330000, C100.0, -106, , FM, 44, 00:00:03, 05/31/23 15:31:18, Contra Costa, Amateur Radio - 2m Repeaters, Mt Diablo, Conventional, , Ham, -  -
+, 145.330000, C100.0, -108, , FM, 45, 00:00:05, 05/31/23 15:31:23, Contra Costa, Amateur Radio - 2m Repeaters, Mt Diablo, Conventional, , Ham, -  -
+, 145.330000, C100.0, -116, , FM, 46, 00:00:07, 05/31/23 15:31:30, Contra Costa, Amateur Radio - 2m Repeaters, Mt Diablo, Conventional, , Ham, -  -
+18128, 489.912500, , -101, 60208, NFM, 94, 00:00:03, 05/31/23 15:37:07, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 489.912500, , -101, 60208, NFM, 96, 00:00:02, 05/31/23 15:37:17, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+, 125.850000, , -104, , AM, 49, 00:00:02, 05/31/23 15:37:59, Oakland (ZOA) Air Route Traffic Control Center, California RCAG Sites - Mt Tamalpais - RCAG, Sector 41 - Between 9000' - FL230, Conventional, , Aircraft, -  -
+45840, 482.787500, , -97, 21012, NFM, 18, 00:00:02, 05/31/23 15:39:32, Marin Emergency Radio Authority (MERA) / East Zone, County Sheriff, Jail 1, Motorola, P25, Corrections, -  -
+, 126.600000, , -99, , AM, 3, 00:00:07, 05/31/23 15:43:37, TRACONs, NORCAL Approach TRACON - Travis RAPCON - Travis AFB, Travis North VHF, Conventional, , Aircraft, -  -
+, 29.600000, , -104, , FM, 193, 00:00:02, 05/31/23 15:44:19, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -105, , FM, 201, 00:00:04, 05/31/23 15:44:33, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -105, , FM, 206, 00:00:03, 05/31/23 15:44:44, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -104, , FM, 212, 00:00:05, 05/31/23 15:44:56, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -103, , FM, 213, 00:00:09, 05/31/23 15:45:03, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 125.850000, , -78, , AM, 50, 00:00:02, 05/31/23 15:48:25, Oakland (ZOA) Air Route Traffic Control Center, California RCAG Sites - Mt Tamalpais - RCAG, Sector 41 - Between 9000' - FL230, Conventional, , Aircraft, -  -
+18128, 482.625000, , -101, 60208, NFM, 97, 00:00:03, 05/31/23 15:50:06, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 482.937500, , -95, 60208, NFM, 98, 00:00:03, 05/31/23 15:50:14, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 482.787500, , -98, 60208, NFM, 99, 00:00:05, 05/31/23 15:50:27, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 482.787500, , -102, 60208, NFM, 100, 00:00:03, 05/31/23 15:50:35, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 482.787500, , -98, 60208, NFM, 101, 00:00:04, 05/31/23 15:50:41, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+44912, 482.787500, , -98, 23004, NFM, 21, 00:00:09, 05/31/23 15:52:57, Marin Emergency Radio Authority (MERA) / East Zone, Countywide EMS, Marin General Hospital 1 (Consult), Motorola, P25, Hospital, -  -
+44912, 482.787500, , -100, 23004, NFM, 22, 00:00:05, 05/31/23 15:53:10, Marin Emergency Radio Authority (MERA) / East Zone, Countywide EMS, Marin General Hospital 1 (Consult), Motorola, P25, Hospital, -  -
+18128, 489.912500, , -106, 60208, NFM, 102, 00:00:03, 05/31/23 15:55:26, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 489.912500, , -105, 60208, NFM, 103, 00:00:10, 05/31/23 15:55:33, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 489.912500, , -107, 60208, NFM, 104, 00:00:02, 05/31/23 15:55:48, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 489.912500, , -105, 60208, NFM, 107, 00:00:12, 05/31/23 15:56:00, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 489.912500, , -102, 60208, NFM, 108, 00:00:09, 05/31/23 15:56:15, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 489.912500, , -108, 60208, NFM, 109, 00:00:09, 05/31/23 15:56:26, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 482.650000, , -103, 60208, NFM, 110, 00:00:03, 05/31/23 15:56:39, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 482.625000, , -85, 60208, NFM, 111, 00:00:02, 05/31/23 15:56:51, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 490.937500, , -102, 60208, NFM, 113, 00:00:04, 05/31/23 15:59:18, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+, 160.965000, , -113, , NFM, 50, 00:00:02, 05/31/23 16:00:51, California Railroads, Alameda Corridor Transportation Authority (ACTA) - Operations, Road, Conventional, , Railroad, -  -
+18128, 482.787500, , -97, 60208, NFM, 114, 00:00:02, 05/31/23 16:01:42, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+9840, 482.787500, , -97, , NFM, 6, 00:00:02, 05/31/23 16:08:14, Marin Emergency Radio Authority (MERA) / East Zone, County Public Works, Roads - Nicasio Yard, Motorola, P25, Public Works, -  -
+9840, 482.937500, , -95, , NFM, 8, 00:00:03, 05/31/23 16:08:22, Marin Emergency Radio Authority (MERA) / East Zone, County Public Works, Roads - Nicasio Yard, Motorola, P25, Public Works, -  -
+, 29.600000, , -104, , FM, 235, 00:00:05, 05/31/23 16:15:12, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -104, , FM, 239, 00:00:43, 05/31/23 16:15:22, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -105, , FM, 240, 00:00:09, 05/31/23 16:16:06, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -105, , FM, 241, 00:00:05, 05/31/23 16:16:15, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -104, , FM, 247, 00:00:18, 05/31/23 16:16:28, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -104, , FM, 249, 00:00:03, 05/31/23 16:16:51, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -104, , FM, 251, 00:00:05, 05/31/23 16:16:56, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -104, , FM, 252, 00:00:26, 05/31/23 16:17:04, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -104, , FM, 256, 00:00:02, 05/31/23 16:17:35, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 160.530000, , -105, , NFM, 38, 00:00:02, 05/31/23 16:18:14, Railroads - USA, Railroad Operations - AAR 001-097, Channel 028, Conventional, , Railroad, -  -
+, 160.530000, , -113, , NFM, 39, 00:00:07, 05/31/23 16:18:16, Railroads - USA, Railroad Operations - AAR 001-097, Channel 028, Conventional, , Railroad, -  -
+, 146.700000, , -108, , FM, 189, 00:00:05, 05/31/23 16:20:55, Marin, Amateur Radio - Marin Amateur Radio Society (MARS), Bahia Ridge (Linked - Simulcast System), Conventional, , Ham, -  -
+, 146.700000, , -97, , FM, 190, 00:00:05, 05/31/23 16:21:02, Marin, Amateur Radio - Marin Amateur Radio Society (MARS), Bahia Ridge (Linked - Simulcast System), Conventional, , Ham, -  -
+, 146.700000, , -103, , FM, 195, 00:00:06, 05/31/23 16:21:12, Marin, Amateur Radio - Marin Amateur Radio Society (MARS), Bahia Ridge (Linked - Simulcast System), Conventional, , Ham, -  -
+, 146.700000, , -108, , FM, 197, 00:00:05, 05/31/23 16:21:22, Marin, Amateur Radio - Marin Amateur Radio Society (MARS), Bahia Ridge (Linked - Simulcast System), Conventional, , Ham, -  -
+, 29.600000, , -104, , FM, 261, 00:00:02, 05/31/23 16:22:47, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 29.600000, , -104, , FM, 268, 00:00:05, 05/31/23 16:23:00, Amateur Radio - USA, Simplex Frequencies - HF/VHF/UHF Simplex, 10m FM Simplex, Conventional, , Ham, -  -
+, 146.700000, , -103, , FM, 199, 00:00:05, 05/31/23 16:24:05, Marin, Amateur Radio - Marin Amateur Radio Society (MARS), Bahia Ridge (Linked - Simulcast System), Conventional, , Ham, -  -
+, 146.700000, , -103, , FM, 202, 00:00:06, 05/31/23 16:24:14, Marin, Amateur Radio - Marin Amateur Radio Society (MARS), Bahia Ridge (Linked - Simulcast System), Conventional, , Ham, -  -
+, 146.700000, , -98, , FM, 205, 00:00:04, 05/31/23 16:24:23, Marin, Amateur Radio - Marin Amateur Radio Society (MARS), Bahia Ridge (Linked - Simulcast System), Conventional, , Ham, -  -
+, 135.650000, , -95, , AM, 3, 00:00:02, 05/31/23 16:31:32, TRACONs, NORCAL Approach TRACON - Area B - SFO Arrivals, SFO Rwy 28L Final, Conventional, , Aircraft, -  -
+624, 856.762500, , -96, 49383, NFM, 19, 00:00:07, 05/31/23 16:33:53, Caltrans (District 4 - North) / Big Rock Ridge (Rcvr Voting), Operations, Bay Bridge Tow, Motorola, , Public Works, -  -
+, 122.700000, , -84, , AM, 5, 00:00:03, 05/31/23 16:36:45, Common Aviation - USA, Aviation, Unicom, Conventional, , Aircraft, -  -
+, 160.530000, , -112, , NFM, 40, 00:00:15, 05/31/23 16:37:13, Railroads - USA, Railroad Operations - AAR 001-097, Channel 028, Conventional, , Railroad, -  -
+, 160.530000, , -104, , NFM, 41, 00:00:06, 05/31/23 16:37:29, Railroads - USA, Railroad Operations - AAR 001-097, Channel 028, Conventional, , Railroad, -  -
+, 127.975000, , -84, , AM, 8, 00:00:03, 05/31/23 16:40:52, TRACONs, NORCAL Approach TRACON - Area D - North Bay, West Departures, Conventional, , Aircraft, -  -
+624, 856.762500, , -96, 49383, NFM, 20, 00:00:14, 05/31/23 16:45:13, Caltrans (District 4 - North) / Big Rock Ridge (Rcvr Voting), Operations, Bay Bridge Tow, Motorola, , Public Works, -  -
+, 125.850000, , -88, , AM, 52, 00:00:02, 05/31/23 16:46:25, Oakland (ZOA) Air Route Traffic Control Center, California RCAG Sites - Mt Tamalpais - RCAG, Sector 41 - Between 9000' - FL230, Conventional, , Aircraft, -  -
+, 162.500000, , -111, , FM, 70, 00:00:14, 05/31/23 16:48:35, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -111, , FM, 72, 00:00:47, 05/31/23 16:48:52, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 160.530000, , -94, , NFM, 42, 00:00:02, 05/31/23 16:49:46, Railroads - USA, Railroad Operations - AAR 001-097, Channel 028, Conventional, , Railroad, -  -
+, 162.500000, , -109, , FM, 77, 00:00:05, 05/31/23 16:52:04, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -110, , FM, 78, 00:00:03, 05/31/23 16:52:10, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -109, , FM, 79, 00:00:17, 05/31/23 16:52:16, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -108, , FM, 80, 00:00:19, 05/31/23 16:52:34, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 125.850000, , -96, , AM, 53, 00:00:02, 05/31/23 16:55:23, Oakland (ZOA) Air Route Traffic Control Center, California RCAG Sites - Mt Tamalpais - RCAG, Sector 41 - Between 9000' - FL230, Conventional, , Aircraft, -  -
+101, 463.787500/1, CC5, -109, 1, NFM, 30, 00:00:03, 05/31/23 16:58:19, Attractions, San Pablo Lytton Casino, Channel 1, Conventional, DMR, Business, -  -
+507, 407.125000, , -119, , NFM, 1, 00:00:03, 05/31/23 17:01:21, Lawrence Livermore National Laboratory / Mt Tamalpais, Golden Gate National Recreational Area (GGNRA), Beach Patrol, P25 Trunk, Link, Federal, -  -
+624, 856.762500, , -99, 49383, NFM, 22, 00:00:12, 05/31/23 17:03:33, Caltrans (District 4 - North) / Big Rock Ridge (Rcvr Voting), Operations, Bay Bridge Tow, Motorola, , Public Works, -  -
+, 160.965000, , -103, , NFM, 52, 00:00:02, 05/31/23 17:04:52, Railroads - USA, Railroad Operations - AAR 001-097, Channel 057, Conventional, , Railroad, -  -
+, 156.165000, C162.2, -107, , NFM, 3, 00:00:21, 05/31/23 17:05:17, Alameda, Cities - Berkeley, Street Department, Conventional, , Public Works, -  -
+, 156.165000, C162.2, -108, , NFM, 4, 00:00:32, 05/31/23 17:05:40, Alameda, Cities - Berkeley, Street Department, Conventional, , Public Works, -  -
+18128, 490.937500, , -107, 60208, NFM, 116, 00:00:03, 05/31/23 17:07:36, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+, 156.165000, C162.2, -108, , NFM, 5, 00:00:40, 05/31/23 17:08:40, Alameda, Cities - Berkeley, Street Department, Conventional, , Public Works, -  -
+, 156.165000, C162.2, -109, , NFM, 6, 00:00:08, 05/31/23 17:09:21, Alameda, Cities - Berkeley, Street Department, Conventional, , Public Works, -  -
+, 156.165000, C162.2, -109, , NFM, 7, 00:01:34, 05/31/23 17:09:31, Alameda, Cities - Berkeley, Street Department, Conventional, , Public Works, -  -
+, 156.165000, C162.2, -108, , NFM, 8, 00:00:10, 05/31/23 17:11:06, Alameda, Cities - Berkeley, Street Department, Conventional, , Public Works, -  -
+, 156.165000, C162.2, -109, , NFM, 9, 00:00:23, 05/31/23 17:11:19, Alameda, Cities - Berkeley, Street Department, Conventional, , Public Works, -  -
+, 156.165000, C162.2, -108, , NFM, 10, 00:00:12, 05/31/23 17:11:42, Alameda, Cities - Berkeley, Street Department, Conventional, , Public Works, -  -
+, 156.165000, C162.2, -109, , NFM, 11, 00:00:03, 05/31/23 17:11:56, Alameda, Cities - Berkeley, Street Department, Conventional, , Public Works, -  -
+, 855.712500, D125, -109, , FM, 9, 00:00:02, 05/31/23 17:18:53, Department of Transportation (Caltrans), Operations - Statewide, Border Area, Conventional, , Public Works, -  -
+, 855.712500, D125, -118, , FM, 10, 00:00:02, 05/31/23 17:18:56, Department of Transportation (Caltrans), Operations - Statewide, Border Area, Conventional, , Public Works, -  -
+, 463.900000, , -104, , FM, 443, 00:00:31, 05/31/23 17:20:58, Business, Businesses - Miscellaneous, G&C Autobody, Conventional, , Business, -  -
+, 145.290000, C131.8, -87, , FM, 24, 00:00:09, 05/31/23 17:24:07, Alameda, Amateur Radio - 2 Meters, Berkeley, Conventional, , Ham, -  -
+, 160.800000, , -105, , NFM, 20, 00:00:05, 05/31/23 17:24:44, California Railroads, Union Pacific (UP) - Martinez Subdivsion, Road - 10th Street to W Haggin, Conventional, , Railroad, -  -
+, 146.700000, , -98, , FM, 206, 00:00:02, 05/31/23 17:26:41, Marin, Amateur Radio - Marin Amateur Radio Society (MARS), Bahia Ridge (Linked - Simulcast System), Conventional, , Ham, -  -
+, 855.712500, D125, -109, , FM, 11, 00:00:04, 05/31/23 17:33:46, Department of Transportation (Caltrans), Operations - Statewide, Border Area, Conventional, , Public Works, -  -
+, 127.800000, , -105, , AM, 11, 00:00:02, 05/31/23 17:37:24, Oakland (ZOA) Air Route Traffic Control Center, California RCAG Sites - Mt Tamalpais - RCAG, Sector 40 - Below 8000', Conventional, , Aircraft, -  -
+, 127.800000, , -80, , AM, 12, 00:00:07, 05/31/23 17:42:12, Oakland (ZOA) Air Route Traffic Control Center, California RCAG Sites - Mt Tamalpais - RCAG, Sector 40 - Below 8000', Conventional, , Aircraft, -  -
+, 156.600000, , -108, , FM, 22, 00:00:26, 05/31/23 17:46:31, Maritime - USA, Maritime Operations - Marine VHF 1A-88A, 12 - Port Operations, Conventional, , Transportation, -  -
+, 160.245000, , -77, , NFM, 1, 00:00:10, 05/31/23 17:47:09, Railroads - USA, Railroad Operations - AAR 001-097, Channel 009, Conventional, , Railroad, -  -
+11959336, 463.887500/1, CC3, -109, 11952472, NFM, 15, 00:00:05, 05/31/23 17:47:34, Fisher Wireless TeamTalk / Big Rock Ridge, Northern California, Airport Shuttles, MotoTRBO Trunk, CON, Transportation, -  -
+, 162.500000, , -109, , FM, 83, 00:00:15, 05/31/23 17:49:40, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -109, , FM, 84, 00:00:36, 05/31/23 17:49:56, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -111, , FM, 85, 00:00:16, 05/31/23 17:50:33, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -110, , FM, 88, 00:00:03, 05/31/23 17:54:05, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -109, , FM, 90, 00:00:37, 05/31/23 17:54:10, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -108, , FM, 91, 00:00:18, 05/31/23 17:54:47, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -110, , FM, 96, 00:00:16, 05/31/23 17:55:15, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -111, , FM, 97, 00:00:03, 05/31/23 17:55:32, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 122.700000, , -91, , AM, 6, 00:00:05, 05/31/23 18:03:44, Common Aviation - USA, Aviation, Unicom, Conventional, , Aircraft, -  -
+1024, 774.243750, , -105, 301, NFM, 3, 00:00:03, 05/31/23 18:05:42, Golden Gate Bridge Highway and Transportation District / Simulcast, Transit Operations, Bus Voice 3, P25 Trunk, Link, Transportation, -  -
+, 160.905000, , -86, , NFM, 1, 00:00:07, 05/31/23 18:06:39, Railroads - USA, Railroad Operations - AAR 001-097, Channel 053, Conventional, , Railroad, -  -
+624, 859.762500, , -107, 49383, NFM, 25, 00:00:02, 05/31/23 18:08:08, Caltrans (District 4 - North) / Big Rock Ridge (Rcvr Voting), Operations, Bay Bridge Tow, Motorola, , Public Works, -  -
+1000, 774.243750, , -105, 823, NFM, 24, 00:00:06, 05/31/23 18:08:21, Golden Gate Bridge Highway and Transportation District / Simulcast, Bridge Operations, Bridge Patrol, P25 Trunk, Link, Security, -  -
+1000, 774.243750, , -105, 823, NFM, 25, 00:00:02, 05/31/23 18:08:28, Golden Gate Bridge Highway and Transportation District / Simulcast, Bridge Operations, Bridge Patrol, P25 Trunk, Link, Security, -  -
+18128, 482.650000, , -97, 60208, NFM, 121, 00:00:03, 05/31/23 18:11:00, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+18128, 489.912500, , -107, 60208, NFM, 122, 00:00:05, 05/31/23 18:11:08, Marin Emergency Radio Authority (MERA) / East Zone, Marin County Transit District, County Transit 1 - Whistlestop Wheels (Paratransit), Motorola, P25, Transportation, -  -
+, 160.800000, , -106, , NFM, 21, 00:00:02, 05/31/23 18:21:34, California Railroads, Union Pacific (UP) - Martinez Subdivsion, Road - 10th Street to W Haggin, Conventional, , Railroad, -  -
+1024, 774.243750, , -106, 301, NFM, 4, 00:00:25, 05/31/23 18:26:18, Golden Gate Bridge Highway and Transportation District / Simulcast, Transit Operations, Bus Voice 3, P25 Trunk, Link, Transportation, -  -
+101, 463.787500/1, CC5, -108, 1, NFM, 31, 00:00:04, 05/31/23 18:30:18, Attractions, San Pablo Lytton Casino, Channel 1, Conventional, DMR, Business, -  -
+624, 859.762500, , -110, 49383, NFM, 27, 00:00:03, 05/31/23 18:31:04, Caltrans (District 4 - North) / Big Rock Ridge (Rcvr Voting), Operations, Bay Bridge Tow, Motorola, , Public Works, -  -
+624, 856.762500, , -99, 49383, NFM, 29, 00:00:13, 05/31/23 18:33:25, Caltrans (District 4 - North) / Big Rock Ridge (Rcvr Voting), Operations, Bay Bridge Tow, Motorola, , Public Works, -  -
+, 162.500000, , -110, , FM, 102, 00:02:56, 05/31/23 18:34:27, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -110, , FM, 104, 00:00:05, 05/31/23 18:37:25, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -110, , FM, 106, 00:00:05, 05/31/23 18:37:33, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 133.950000, , -89, , AM, 36, 00:00:05, 05/31/23 18:39:27, TRACONs, NORCAL Approach TRACON - Area B - SFO Arrivals, SFO North and West Arrivals Feeder, Conventional, , Aircraft, -  -
+, 160.800000, , -108, , NFM, 24, 00:00:05, 05/31/23 18:43:17, California Railroads, Union Pacific (UP) - Martinez Subdivsion, Road - 10th Street to W Haggin, Conventional, , Railroad, -  -
+, 127.800000, , -110, , AM, 14, 00:00:06, 05/31/23 18:48:49, Oakland (ZOA) Air Route Traffic Control Center, California RCAG Sites - Mt Tamalpais - RCAG, Sector 40 - Below 8000', Conventional, , Aircraft, -  -
+1024, 773.706250, , -120, 301, NFM, 5, 00:00:09, 05/31/23 18:50:24, Golden Gate Bridge Highway and Transportation District / Sonoma Mountain, Transit Operations, Bus Voice 3, P25 Trunk, Link, Transportation, -  -
+1024, 773.706250, , -106, 301, NFM, 6, 00:00:32, 05/31/23 18:50:35, Golden Gate Bridge Highway and Transportation District / Sonoma Mountain, Transit Operations, Bus Voice 3, P25 Trunk, Link, Transportation, -  -
+1024, 773.706250, , -104, 301, NFM, 7, 00:00:05, 05/31/23 18:51:09, Golden Gate Bridge Highway and Transportation District / Sonoma Mountain, Transit Operations, Bus Voice 3, P25 Trunk, P25, Transportation, -  -
+1024, 773.706250, , -106, 301, NFM, 8, 00:00:17, 05/31/23 18:51:16, Golden Gate Bridge Highway and Transportation District / Sonoma Mountain, Transit Operations, Bus Voice 3, P25 Trunk, Link, Transportation, -  -
+1024, 773.706250, , -106, 301, NFM, 9, 00:00:05, 05/31/23 18:51:35, Golden Gate Bridge Highway and Transportation District / Sonoma Mountain, Transit Operations, Bus Voice 3, P25 Trunk, Link, Transportation, -  -
+, 135.100000, , -88, , AM, 30, 00:00:03, 05/31/23 18:55:40, TRACONs, NORCAL Approach TRACON - Area D - North Bay, SFO/OAK West Departures, Conventional, , Aircraft, -  -
+44912, 482.650000, , -95, 23004, NFM, 23, 00:00:19, 05/31/23 18:56:02, Marin Emergency Radio Authority (MERA) / East Zone, Countywide EMS, Marin General Hospital 1 (Consult), Motorola, P25, Hospital, -  -
+44912, 482.650000, , -103, 23004, NFM, 24, 00:00:04, 05/31/23 18:56:23, Marin Emergency Radio Authority (MERA) / East Zone, Countywide EMS, Marin General Hospital 1 (Consult), Motorola, P25, Hospital, -  -
+, 119.750000, , -103, , AM, 26, 00:00:03, 05/31/23 18:59:16, Oakland (ZOA) Air Route Traffic Control Center, California RCAG Sites - Angels Camp - RCAG, Sector 29 Int - Between FL240 - FL290, Conventional, , Aircraft, -  -
+101, 463.787500, CC5, -106, 1, NFM, 32, 00:00:08, 05/31/23 18:59:56, Attractions, San Pablo Lytton Casino, Channel 1, Conventional, DMR, Business, -  -
+, 162.500000, , -109, , FM, 107, 00:00:02, 05/31/23 19:01:40, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -109, , FM, 108, 00:00:06, 05/31/23 19:01:43, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -109, , FM, 109, 00:00:07, 05/31/23 19:01:50, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -111, , FM, 110, 00:00:15, 05/31/23 19:01:58, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -109, , FM, 115, 00:00:02, 05/31/23 19:02:23, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -109, , FM, 116, 00:00:24, 05/31/23 19:02:26, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -109, , FM, 117, 00:00:02, 05/31/23 19:02:53, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+, 162.500000, , -109, , FM, 119, 00:00:06, 05/31/23 19:02:57, National Weather Service - USA, Weather Radio, Weather Radio 162.500, Conventional, , Other, -  -
+101, 463.787500/2, CC5, -109, 1, NFM, 33, 00:00:12, 05/31/23 19:06:07, Attractions, San Pablo Lytton Casino, Channel 1, Conventional, DMR, Business, -  -
+, 122.700000, , -91, , AM, 7, 00:00:15, 05/31/23 19:07:27, Common Aviation - USA, Aviation, Unicom, Conventional, , Aircraft, -  -
+, 133.950000, , -81, , AM, 37, 00:00:02, 05/31/23 19:13:21, TRACONs, NORCAL Approach TRACON - Area B - SFO Arrivals, SFO North and West Arrivals Feeder, Conventional, , Aircraft, -  -
+, 125.850000, , -73, , AM, 57, 00:00:05, 05/31/23 19:14:22, Oakland (ZOA) Air Route Traffic Control Center, California RCAG Sites - Mt Tamalpais - RCAG, Sector 41 - Between 9000' - FL230, Conventional, , Aircraft, -  -
+1000, 774.243750, , -104, 823, NFM, 26, 00:00:03, 05/31/23 19:15:53, Golden Gate Bridge Highway and Transportation District / Simulcast, Bridge Operations, Bridge Patrol, P25 Trunk, P25, Security, -  -
+1000, 774.243750, , -118, 823, NFM, 27, 00:00:04, 05/31/23 19:15:58, Golden Gate Bridge Highway and Transportation District / Simulcast, Bridge Operations, Bridge Patrol, P25 Trunk, Link, Security, -  -
+, 160.800000, , -108, , NFM, 26, 00:00:02, 05/31/23 19:17:41, California Railroads, Union Pacific (UP) - Tracy Subdivision, Road - MP 80.7 to Martinez, Conventional, , Railroad, -  -
+, 160.560000, , -115, , NFM, 36, 00:00:02, 05/31/23 19:19:10, Railroads - USA, Railroad Operations - AAR 001-097, Channel 030, Conventional, , Railroad, -  -
+7728, 851.362500, , -90, 4010005, NFM, 13, 00:00:04, 05/31/23 19:22:53, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, Contra Costa County Services, Animal Control, P25 Trunk, PT1, Public Works, -  -
+7728, 852.925000, , -86, 4010005, NFM, 14, 00:00:04, 05/31/23 19:22:59, East Bay Regional Communications System (EBRCS) / CCCO West Simulcast, Contra Costa County Services, Animal Control, P25 Trunk, PT1, Public Works, -  -
